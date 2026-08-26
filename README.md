@@ -108,3 +108,68 @@ They include:
 - Device and login analysis
 - Business problem queries
   
+## 📈 Power BI Dashboard
+
+An interactive Power BI dashboard was developed to analyze banking operations, customer behavior, accounts, fraud, devices, and login activity.
+
+### Dashboard Pages
+
+#### 1. Banking Overview
+
+Provides an overall view of banking transactions and fraud performance, including key KPIs and transaction trends.
+
+#### 2. Branches & Customer Analysis
+
+Analyzes:
+
+- Customer distribution by branch
+- Customer demographics
+- Age groups
+- Gender distribution
+- KYC status
+- Branch-level fraud rate
+
+#### 3. Account Analysis
+
+Analyzes:
+
+- Account types
+- Account status
+- Account balances
+- Fraud rate by account type
+- Fraud rate by account status
+
+#### 4. Fraud Analysis
+
+Analyzes:
+
+- Total fraud transactions
+- Fraud amount
+- Fraud rate
+- Fraud types
+- Fraud trend
+- Fraud patterns across transaction categories
+
+#### 5. Device & Login Analysis
+
+Analyzes:
+
+- Total devices
+- Trusted vs untrusted devices
+- Device types
+- Successful vs failed logins
+- Login activity
+- Location-based login patterns
+
+### Power BI Features Used
+
+- KPI Cards
+- Bar Charts
+- Column Charts
+- Line Charts
+- Donut Charts
+- Slicers
+- Tables
+- DAX Measures
+- Time Intelligence
+- Interactive filtering
