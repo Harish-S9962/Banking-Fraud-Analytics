@@ -173,3 +173,23 @@ Analyzes:
 - DAX Measures
 - Time Intelligence
 - Interactive filtering
+
+  ## 📂 Project Files
+
+### 🗄️ SQL Analysis
+
+The SQL scripts used for data cleaning and analysis are available here:
+
+👉 [View SQL Scripts](./Banking%20Fraud%20Analytic%20SQL)
+
+### 📊 Power BI Dashboard
+
+The five Power BI dashboard screenshots are available here:
+
+👉 [View Power BI Dashboard](./Power%20BI%20Dashboard%20Screenshot)
+
+### 💡 Business Insights
+
+Detailed business findings, insights, and recommendations are available here:
+
+👉 [View Business Insights](./Business%20Insight%20README.md)
