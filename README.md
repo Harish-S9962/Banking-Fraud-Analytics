@@ -2,6 +2,10 @@
 
 **Created by: Harish S.**
 
+## ⚠️ Dataset Disclaimer
+
+This project uses a **simulated banking dataset created for educational, portfolio, and interview purposes**. The dataset does not contain real customer information and is not associated with any actual bank or financial institution. All customer, account, transaction, fraud, device, and login data are simulated.
+
 ## 📌 Project Overview
 
 This project analyzes banking customer, account, transaction, fraud, device, and login data to identify suspicious patterns, understand fraud risk, and provide actionable business insights.
