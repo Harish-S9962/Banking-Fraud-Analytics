@@ -63,4 +63,48 @@ Key activities included:
 - Checking invalid transaction and account values
 - Standardizing text and date-related fields
 - Preparing clean data for Power BI analysis
+
+## 🗄️ SQL Analysis
+
+SQL analysis was performed using **MySQL** to clean the data and answer key banking and fraud-related business questions.
+
+### SQL Analysis Areas
+
+- Customer and demographic analysis
+- Branch performance analysis
+- Account type and account status analysis
+- Transaction analysis
+- Fraud transaction analysis
+- Fraud type analysis
+- Device and login activity analysis
+- Business problem analysis
+
+### Key SQL Techniques Used
+
+- `SELECT`
+- `WHERE`
+- `GROUP BY`
+- `ORDER BY`
+- `JOIN`
+- `LEFT JOIN`
+- `CASE`
+- Aggregate functions such as `COUNT()`, `SUM()`, and `AVG()`
+- `ROW_NUMBER()`
+- Common Table Expressions (CTEs)
+- Date and time functions
+- Window functions
+- Data cleaning and validation queries
+
+### SQL Scripts
+
+The SQL scripts used for the project are available in the **SQL** folder.
+
+They include:
+
+- Data cleaning
+- Customer analysis
+- Account analysis
+- Transaction and fraud analysis
+- Device and login analysis
+- Business problem queries
   
