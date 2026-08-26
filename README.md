@@ -174,22 +174,22 @@ Analyzes:
 - Time Intelligence
 - Interactive filtering
 
-  ## 📂 Project Files
+ ## 📂 Project Files
 
 ### 🗄️ SQL Analysis
 
-The SQL scripts used for data cleaning and analysis are available here:
+The SQL script used for data cleaning and analysis:
 
-👉 [View SQL Scripts](./Banking%20Fraud%20Analytic%20SQL)
+👉 [View SQL Analysis](./Banking_Fraud_Analytics.SQL)
 
 ### 📊 Power BI Dashboard
 
-The five Power BI dashboard screenshots are available here:
+Power BI dashboard screenshots:
 
-👉 [View Power BI Dashboard](./Power%20BI%20Dashboard%20Screenshot)
+👉 [View Power BI Dashboard](./Power%20Bi/Dashboard%20Screenshots.png)
 
 ### 💡 Business Insights
 
-Detailed business findings, insights, and recommendations are available here:
+Detailed business findings, insights, and recommendations:
 
-👉 [View Business Insights](./Business%20Insight%20README.md)
+👉 [View Business Insights](./Business%20Insights.md)
