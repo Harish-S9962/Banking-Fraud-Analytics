@@ -178,9 +178,9 @@ Analyzes:
 
 ### 🗄️ SQL Analysis
 
-The SQL script used for data cleaning and analysis:
+The project contains six SQL scripts covering data cleaning, customer analysis, account analysis, transaction and fraud analysis, device and login analysis, and business problem analysis.
 
-👉 [View SQL Analysis](./Banking_Fraud_Analytics.SQL)
+👉 [View SQL Analysis](./Banking_fraud_Analytics.SQL)
 
 ### 📊 Power BI Dashboard
 
