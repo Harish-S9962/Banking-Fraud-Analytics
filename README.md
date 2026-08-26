@@ -184,9 +184,9 @@ The project contains six SQL scripts covering data cleaning, customer analysis, 
 
 ### 📊 Power BI Dashboard
 
-Power BI dashboard screenshots:
+The project includes five Power BI dashboard pages covering banking overview, branches and customers, accounts, fraud, and device & login analysis.
 
-👉 [View Power BI Dashboard](./Power%20Bi/Dashboard%20Screenshots.png)
+👉 [View Power BI Dashboard](./Power%20BI%20Dashboard%20Screenshot)
 
 ### 💡 Business Insights
 
