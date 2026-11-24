@@ -178,22 +178,4 @@ Analyzes:
 - Time Intelligence
 - Interactive filtering
 
- ## 📂 Project Files
-
-### 🗄️ SQL Analysis
-
-The project contains six SQL scripts covering data cleaning, customer analysis, account analysis, transaction and fraud analysis, device and login analysis, and business problem analysis.
-
-👉 [View SQL Analysis](./Banking_fraud_Analytics.SQL)
-
-### 📊 Power BI Dashboard
-
-The project includes five Power BI dashboard screenshots covering Banking Overview, Branches & Customers, Account Analysis, Fraud Analysis, and Device & Login Analysis.
-
-👉 [View Power BI Dashboard](./Power%20Bi/Dashboard%20screenshots.png)
-
-### 💡 Business Insights
-
-Detailed business findings, insights, and recommendations:
-
-👉 [View Business Insights](./Business%20Insights.md)
+ 
