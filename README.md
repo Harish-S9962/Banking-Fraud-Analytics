@@ -8,7 +8,7 @@ This project uses a **simulated banking dataset created for educational, portfol
 
 ## 📌 Project Overview
 
-This project analyzes banking customer, account, transaction, fraud, device, and login data to identify suspicious patterns, understand fraud risk, and provide actionable business insights.
+This project analyzes banking customer, account, transaction, fraud, device, and login data to identify suspicious patterns, understand fraud risk, and provide actionable business insights .
 
 The project uses **SQL (MySQL)** for data cleaning and analysis and **Power BI** for interactive dashboard development.
 
