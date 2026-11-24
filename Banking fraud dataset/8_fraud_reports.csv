@@ -1,0 +1,1257 @@
+report_id,transaction_id,reported_date,fraud_type,reported_by,resolution_status,amount_recovered,investigation_notes
+1,19109,27-02-2026,Card Skimming,customer,PENDING,34493.08,Confirmed fraud after investigation
+2,36134,18-01-2025,Account Takeover,Customer,Rejected,0,Confirmed fraud after investigation
+3,30091,18-09-2025,Account Takeover,Bank System,PENDING,49042.53,Confirmed fraud after investigation
+4,8285,15-03-2025,phishing,Third Party Alert,PENDING,0,
+5,27435,06-11-2024,Account Takeover,Third Party Alert,resolved,0,  pending review  
+6,39855,24-08-2025,Identity Theft,customer,Under Investigation,0,Customer reported unauthorized transaction
+7,4409,02-04-2025,Card Skimming,Bank System,resolved,24683.9,Customer reported unauthorized transaction
+8,49959,25-01-2025,SIM Swap,Third Party Alert,resolved,44526.69,
+9,48570,13-11-2025,Account Takeover,customer,Under Investigation,26038.47,  pending review  
+10,29180,21-10-2024,Identity Theft,Third Party Alert,Under Investigation,0,Customer reported unauthorized transaction
+11,43027,18-12-2024,SIM Swap,Third Party Alert,Rejected,0,  pending review  
+12,34907,06-03-2025,Account Takeover,Customer,PENDING,35392.78,Confirmed fraud after investigation
+13,25008,12-06-2025,phishing,Third Party Alert,Under Investigation,15345.62,Confirmed fraud after investigation
+14,15993,19-06-2026,Card Skimming,customer,Under Investigation,0,  pending review  
+15,27950,13-07-2026,Identity Theft,Bank System,Under Investigation,9418.27,  pending review  
+16,43689,11-06-2025,phishing,customer,PENDING,0,Confirmed fraud after investigation
+17,47814,22-05-2026,Card Skimming,Bank System,PENDING,19647.48,Customer reported unauthorized transaction
+18,7563,29-03-2025,Identity Theft,Customer,PENDING,0,  pending review  
+19,28911,20-07-2025,Card Skimming,Customer,PENDING,17273.52,  pending review  
+20,22936,21-03-2025,SIM Swap,Customer,Rejected,0,Confirmed fraud after investigation
+21,1353,19-10-2025,SIM Swap,Customer,Under Investigation,0,  pending review  
+22,25022,13-12-2025,SIM Swap,customer,resolved,49431.17,Confirmed fraud after investigation
+23,29884,30-01-2025,,Customer,PENDING,27938.17,
+24,43204,20-07-2025,phishing,Bank System,PENDING,33104.84,  pending review  
+25,11749,07-03-2025,Phishing,Third Party Alert,Resolved,2502.17,Confirmed fraud after investigation
+26,2257,07-01-2025,Identity Theft,customer,Resolved,31856.99,
+27,48812,13-01-2026,,Third Party Alert,Rejected,9932.01,Confirmed fraud after investigation
+28,21800,19-04-2026,SIM Swap,Customer,Under Investigation,0,Awaiting bank verification
+29,27288,20-06-2025,Identity Theft,customer,Resolved,43388.77,Confirmed fraud after investigation
+30,43815,26-04-2025,SIM Swap,Bank System,Resolved,48881.42,Customer reported unauthorized transaction
+31,10226,18-05-2026,Card Skimming,Bank System,Resolved,8504.68,  pending review  
+32,19842,30-08-2024,,Customer,Under Investigation,38409.43,Customer reported unauthorized transaction
+33,47389,03-05-2025,Phishing,Third Party Alert,PENDING,0,
+34,35109,07-01-2025,Phishing,Customer,PENDING,17434.74,Confirmed fraud after investigation
+35,6342,09-11-2024,Phishing,Bank System,Under Investigation,0,Awaiting bank verification
+36,47012,28-11-2024,SIM Swap,customer,Resolved,44381.94,Confirmed fraud after investigation
+37,27121,12-02-2026,Card Skimming,Customer,Under Investigation,0,
+38,18093,09-05-2025,,customer,Rejected,0,Customer reported unauthorized transaction
+39,40790,03-12-2025,Identity Theft,Third Party Alert,PENDING,34043,Customer reported unauthorized transaction
+40,47782,03-02-2026,phishing,customer,Under Investigation,23880.13,  pending review  
+41,28545,10-02-2026,Card Skimming,customer,PENDING,49422.57,Customer reported unauthorized transaction
+42,30852,19-03-2025,Phishing,Customer,Under Investigation,0,
+43,5221,25-05-2025,Card Skimming,Customer,Resolved,0,  pending review  
+44,32041,12-07-2026,SIM Swap,Third Party Alert,PENDING,29978.84,Customer reported unauthorized transaction
+45,19580,20-07-2025,Identity Theft,Bank System,PENDING,0,Awaiting bank verification
+46,47205,13-11-2024,Account Takeover,Customer,resolved,34146.05,
+47,19243,04-08-2025,Card Skimming,Bank System,resolved,5862.74,Awaiting bank verification
+48,46120,01-01-2025,Identity Theft,Third Party Alert,Resolved,16533.32,
+49,31614,31-05-2026,phishing,customer,Rejected,41793.48,Customer reported unauthorized transaction
+50,355,24-11-2024,Identity Theft,Third Party Alert,Rejected,34662.68,Customer reported unauthorized transaction
+51,11443,16-10-2025,Phishing,Customer,PENDING,0,Confirmed fraud after investigation
+52,28920,22-01-2026,Card Skimming,customer,PENDING,26624.52,
+53,25442,22-10-2025,Phishing,customer,PENDING,20812.34,Awaiting bank verification
+54,41127,09-02-2025,Account Takeover,Bank System,resolved,45472.97,Awaiting bank verification
+55,24656,25-06-2025,Account Takeover,Bank System,PENDING,27818.66,  pending review  
+56,21706,03-11-2024,Phishing,Customer,Under Investigation,0,
+57,4614,13-02-2025,Identity Theft,customer,resolved,0,Confirmed fraud after investigation
+58,31434,15-07-2025,Phishing,Bank System,Resolved,43320.01,
+59,44739,18-03-2025,,Bank System,Resolved,0,
+60,37966,03-03-2026,Account Takeover,Third Party Alert,Resolved,8975.77,Customer reported unauthorized transaction
+61,35015,04-11-2025,,Bank System,PENDING,0,Confirmed fraud after investigation
+62,21850,19-04-2026,,Bank System,Resolved,0,Confirmed fraud after investigation
+63,24748,26-04-2026,SIM Swap,Bank System,resolved,0,Awaiting bank verification
+64,537,03-04-2025,Card Skimming,Third Party Alert,Under Investigation,4599.98,Confirmed fraud after investigation
+65,47926,23-01-2025,phishing,Bank System,PENDING,0,  pending review  
+66,25168,11-10-2024,Phishing,Customer,Rejected,4268.27,
+67,10165,10-12-2025,Identity Theft,customer,PENDING,26263.32,
+68,29694,02-12-2025,Card Skimming,Third Party Alert,Under Investigation,47976.79,Confirmed fraud after investigation
+69,31000,26-06-2025,Account Takeover,Bank System,Under Investigation,34635.18,Customer reported unauthorized transaction
+70,21398,24-10-2024,,Third Party Alert,PENDING,24993.27,Customer reported unauthorized transaction
+71,19700,02-10-2024,SIM Swap,Bank System,resolved,32543.66,Awaiting bank verification
+72,24634,31-01-2026,phishing,Customer,PENDING,0,
+73,35799,24-12-2025,Card Skimming,Third Party Alert,Resolved,14587.94,Confirmed fraud after investigation
+74,35657,04-07-2025,Account Takeover,Customer,Resolved,26870.2,Confirmed fraud after investigation
+75,48989,11-02-2026,Identity Theft,Third Party Alert,Rejected,0,
+76,38514,30-06-2026,Account Takeover,Bank System,PENDING,0,Customer reported unauthorized transaction
+77,42301,17-08-2024,phishing,customer,resolved,23375.55,
+78,32665,07-02-2025,Account Takeover,customer,resolved,20787.44,Awaiting bank verification
+79,15398,21-08-2025,SIM Swap,customer,Rejected,0,Customer reported unauthorized transaction
+80,34988,02-05-2025,Account Takeover,customer,Resolved,0,  pending review  
+81,30355,18-10-2025,Identity Theft,Customer,Rejected,0,
+82,34182,04-03-2025,Card Skimming,customer,resolved,17435.4,Confirmed fraud after investigation
+83,10462,14-06-2025,phishing,Third Party Alert,Rejected,18249.64,Customer reported unauthorized transaction
+84,7927,04-06-2025,phishing,Customer,Rejected,24685.83,Customer reported unauthorized transaction
+85,48899,06-08-2025,Identity Theft,customer,resolved,0,Awaiting bank verification
+86,24460,29-11-2024,Account Takeover,customer,Rejected,32100.8,
+87,26902,08-06-2025,,Bank System,Rejected,23707.83,
+88,16206,24-11-2024,,Bank System,PENDING,0,Confirmed fraud after investigation
+89,20116,15-10-2025,SIM Swap,Customer,Rejected,12993.37,Customer reported unauthorized transaction
+90,16981,22-04-2025,Phishing,Customer,Rejected,0,Confirmed fraud after investigation
+91,11145,17-05-2026,Account Takeover,customer,PENDING,45438.02,Customer reported unauthorized transaction
+92,22822,04-09-2025,Identity Theft,Customer,Resolved,0,Customer reported unauthorized transaction
+93,36407,01-12-2024,Account Takeover,Customer,resolved,3098.77,Confirmed fraud after investigation
+94,2455,04-12-2024,Phishing,Third Party Alert,PENDING,0,Confirmed fraud after investigation
+95,760,20-09-2024,Phishing,customer,PENDING,0,Awaiting bank verification
+96,42934,27-01-2025,Phishing,customer,Rejected,8136.55,Customer reported unauthorized transaction
+97,6528,02-03-2025,Account Takeover,Customer,Under Investigation,0,Awaiting bank verification
+98,17335,04-01-2026,Card Skimming,Bank System,resolved,9391.76,Awaiting bank verification
+99,46262,17-05-2026,Identity Theft,customer,Rejected,33134.01,  pending review  
+100,36511,06-07-2025,Card Skimming,Third Party Alert,PENDING,0,Confirmed fraud after investigation
+101,4075,27-02-2025,Identity Theft,customer,PENDING,32099.29,Confirmed fraud after investigation
+102,39121,27-03-2025,phishing,Customer,PENDING,9339.04,
+103,2834,09-03-2025,Card Skimming,Bank System,PENDING,25738.89,Confirmed fraud after investigation
+104,41207,07-04-2026,,customer,resolved,7931.47,  pending review  
+105,18436,20-07-2026,Card Skimming,Customer,PENDING,41562.34,
+106,27928,17-06-2025,SIM Swap,Customer,Resolved,13795.61,Confirmed fraud after investigation
+107,17931,30-06-2026,phishing,Third Party Alert,PENDING,29282.23,Customer reported unauthorized transaction
+108,29621,06-08-2025,Account Takeover,Bank System,PENDING,0,Confirmed fraud after investigation
+109,24118,12-10-2024,Account Takeover,Customer,Under Investigation,28343.41,Awaiting bank verification
+110,12509,25-08-2025,Account Takeover,Third Party Alert,Under Investigation,0,Confirmed fraud after investigation
+111,37741,07-12-2025,,Third Party Alert,resolved,0,
+112,46792,19-10-2024,,Bank System,Resolved,0,Confirmed fraud after investigation
+113,10921,28-09-2025,Account Takeover,customer,PENDING,0,Confirmed fraud after investigation
+114,25726,02-01-2025,,Third Party Alert,Under Investigation,0,Awaiting bank verification
+115,35017,01-01-2026,Phishing,Bank System,PENDING,48778.77,Confirmed fraud after investigation
+116,15167,11-04-2025,SIM Swap,Bank System,Under Investigation,6273.45,
+117,36343,05-07-2025,SIM Swap,customer,Under Investigation,0,
+118,16132,09-08-2025,,Third Party Alert,resolved,10726.95,
+119,511,14-04-2025,Phishing,Third Party Alert,Rejected,5659.16,Awaiting bank verification
+120,38333,10-06-2025,Card Skimming,customer,resolved,0,  pending review  
+121,4327,28-04-2025,Card Skimming,Third Party Alert,resolved,10205.92,Awaiting bank verification
+122,28559,29-10-2024,Identity Theft,Bank System,Rejected,26409.31,
+123,38169,19-03-2025,phishing,customer,Under Investigation,49718.76,Customer reported unauthorized transaction
+124,25504,16-06-2026,phishing,customer,Rejected,0,  pending review  
+125,32551,26-10-2025,Identity Theft,Third Party Alert,resolved,11059.28,Awaiting bank verification
+126,37954,12-11-2024,SIM Swap,customer,Under Investigation,0,
+127,44542,12-09-2025,SIM Swap,Customer,PENDING,0,Confirmed fraud after investigation
+128,20577,19-08-2025,phishing,Customer,Rejected,18008.03,Customer reported unauthorized transaction
+129,23762,18-03-2026,Card Skimming,customer,resolved,0,Awaiting bank verification
+130,9911,16-05-2026,Identity Theft,Bank System,Resolved,7026.95,Customer reported unauthorized transaction
+131,17065,09-05-2026,Card Skimming,Third Party Alert,PENDING,0,Customer reported unauthorized transaction
+132,14770,03-09-2025,Identity Theft,customer,resolved,32959.55,  pending review  
+133,2652,14-12-2024,phishing,Third Party Alert,Under Investigation,25768.23,
+134,5927,09-04-2026,SIM Swap,Bank System,resolved,46658.38,
+135,32695,11-10-2024,SIM Swap,Third Party Alert,Resolved,0,Confirmed fraud after investigation
+136,32192,30-07-2025,Phishing,Customer,Under Investigation,0,  pending review  
+137,19168,18-03-2025,SIM Swap,Third Party Alert,resolved,0,Customer reported unauthorized transaction
+138,14677,22-10-2025,phishing,Customer,resolved,20852.28,  pending review  
+139,24533,06-02-2025,Card Skimming,Customer,Resolved,0,  pending review  
+140,26804,24-04-2025,SIM Swap,Customer,Under Investigation,47888.98,Awaiting bank verification
+141,34151,10-06-2025,Identity Theft,Customer,resolved,2292.82,
+142,45450,03-12-2025,Account Takeover,Customer,resolved,3984.17,  pending review  
+143,13842,28-11-2024,phishing,Bank System,Rejected,0,Confirmed fraud after investigation
+144,19331,10-04-2026,SIM Swap,Bank System,PENDING,0,Awaiting bank verification
+145,12578,28-01-2025,Card Skimming,customer,Under Investigation,15065.08,
+146,49818,24-11-2025,Identity Theft,Customer,PENDING,0,
+147,17647,05-07-2026,phishing,customer,Under Investigation,765.47,Confirmed fraud after investigation
+148,30431,02-02-2025,SIM Swap,customer,resolved,5092.67,  pending review  
+149,1072,07-01-2026,Card Skimming,Third Party Alert,Resolved,34006.46,
+150,42837,11-05-2026,phishing,Customer,Under Investigation,31178.9,Customer reported unauthorized transaction
+151,29844,17-10-2024,Phishing,Customer,Rejected,1995.61,Confirmed fraud after investigation
+152,43193,06-01-2026,,customer,Rejected,0,Confirmed fraud after investigation
+153,12138,09-09-2024,Card Skimming,Bank System,Under Investigation,42494.77,Customer reported unauthorized transaction
+154,4644,03-12-2025,Account Takeover,customer,Resolved,26734.71,Confirmed fraud after investigation
+155,42908,05-10-2024,Card Skimming,Third Party Alert,Under Investigation,14306.41,Awaiting bank verification
+156,11330,08-09-2025,Card Skimming,customer,resolved,0,Awaiting bank verification
+157,30531,19-09-2024,SIM Swap,Third Party Alert,PENDING,0,Awaiting bank verification
+158,26514,23-07-2025,Card Skimming,customer,Resolved,0,  pending review  
+159,42489,02-09-2024,Card Skimming,customer,Under Investigation,6497.26,Confirmed fraud after investigation
+160,9846,12-05-2026,phishing,Bank System,Rejected,0,Awaiting bank verification
+161,18465,08-10-2025,,customer,Under Investigation,0,  pending review  
+162,41792,05-06-2025,Phishing,Third Party Alert,Rejected,0,Customer reported unauthorized transaction
+163,9483,17-03-2025,Card Skimming,Bank System,Under Investigation,0,  pending review  
+164,3064,19-10-2025,phishing,customer,Resolved,0,  pending review  
+165,32039,06-02-2025,Phishing,Bank System,PENDING,0,
+166,45916,14-05-2026,SIM Swap,Third Party Alert,Resolved,44453.64,Awaiting bank verification
+167,21738,16-06-2026,Phishing,Bank System,Resolved,0,Customer reported unauthorized transaction
+168,30079,08-12-2024,Identity Theft,Third Party Alert,resolved,31778.46,Customer reported unauthorized transaction
+169,33188,07-07-2026,Identity Theft,Third Party Alert,PENDING,0,  pending review  
+170,28943,03-07-2026,Identity Theft,Customer,PENDING,44924.21,Awaiting bank verification
+171,31308,01-10-2025,SIM Swap,Customer,Rejected,0,
+172,25260,04-09-2025,phishing,Third Party Alert,Under Investigation,0,Awaiting bank verification
+173,25138,14-03-2026,Card Skimming,Bank System,Under Investigation,0,  pending review  
+174,41753,10-07-2025,Card Skimming,Third Party Alert,PENDING,24955.29,Confirmed fraud after investigation
+175,9167,15-11-2024,Identity Theft,Customer,Rejected,8823.76,Awaiting bank verification
+176,21573,29-10-2024,Card Skimming,Bank System,Rejected,0,
+177,8520,06-08-2025,phishing,Third Party Alert,PENDING,44529.07,
+178,30826,13-01-2026,SIM Swap,Customer,Under Investigation,0,Confirmed fraud after investigation
+179,6048,05-05-2026,phishing,Customer,resolved,32656.56,Customer reported unauthorized transaction
+180,37634,09-03-2026,Phishing,Third Party Alert,Rejected,0,
+181,43694,12-12-2024,,customer,resolved,20645.66,Awaiting bank verification
+182,17381,12-04-2025,phishing,Customer,resolved,0,Confirmed fraud after investigation
+183,2629,03-10-2025,SIM Swap,Third Party Alert,resolved,11626.3,Customer reported unauthorized transaction
+184,2193,19-09-2025,Identity Theft,Bank System,PENDING,37775.82,  pending review  
+185,19306,24-12-2024,SIM Swap,Bank System,PENDING,986.5,
+186,18628,24-02-2026,phishing,Customer,Under Investigation,17545.35,Awaiting bank verification
+187,42252,29-10-2024,Phishing,Customer,Under Investigation,0,Awaiting bank verification
+188,41046,16-07-2025,Phishing,customer,Under Investigation,45279.98,Awaiting bank verification
+189,22766,18-02-2026,Phishing,Third Party Alert,Resolved,36330.58,Customer reported unauthorized transaction
+190,23678,01-10-2024,Account Takeover,Customer,resolved,0,Confirmed fraud after investigation
+191,46206,15-05-2026,Identity Theft,customer,Rejected,49752.6,
+192,2197,15-03-2026,Account Takeover,Bank System,Rejected,0,
+193,5866,10-12-2025,phishing,Customer,Under Investigation,27859.7,Confirmed fraud after investigation
+194,39594,03-11-2025,Phishing,Bank System,Rejected,34308.79,Confirmed fraud after investigation
+195,26493,21-10-2024,Account Takeover,customer,Rejected,0,Customer reported unauthorized transaction
+196,34247,22-09-2025,SIM Swap,Bank System,Rejected,35223.44,Awaiting bank verification
+197,44963,10-01-2026,phishing,customer,Resolved,37131.97,Customer reported unauthorized transaction
+198,44898,07-08-2025,Identity Theft,Third Party Alert,Rejected,0,
+199,47995,16-12-2025,Phishing,Customer,Rejected,0,
+200,18037,18-10-2025,Card Skimming,Bank System,Under Investigation,10234.98,Confirmed fraud after investigation
+201,31865,20-12-2024,Phishing,Customer,Resolved,10441.31,Customer reported unauthorized transaction
+202,43691,21-11-2024,Phishing,Bank System,PENDING,30904.53,Awaiting bank verification
+203,49683,11-04-2026,,Third Party Alert,Resolved,0,Customer reported unauthorized transaction
+204,41916,14-06-2025,Phishing,Bank System,Resolved,0,  pending review  
+205,19264,27-01-2025,phishing,customer,Rejected,5314.24,
+206,3235,20-08-2024,Identity Theft,Third Party Alert,resolved,14397.93,
+207,22597,23-02-2025,Identity Theft,Bank System,PENDING,37261.12,
+208,17089,23-03-2025,SIM Swap,Customer,Under Investigation,0,Confirmed fraud after investigation
+209,5057,02-06-2025,Identity Theft,Customer,Rejected,25844.47,  pending review  
+210,42074,06-09-2024,Card Skimming,Customer,Resolved,0,Customer reported unauthorized transaction
+211,3273,03-08-2025,Identity Theft,Bank System,Rejected,40405.91,Customer reported unauthorized transaction
+212,49112,01-09-2025,Account Takeover,customer,Resolved,37749.96,
+213,33400,07-05-2026,SIM Swap,Bank System,PENDING,0,
+214,41016,04-02-2025,Identity Theft,Third Party Alert,Under Investigation,26479.83,Confirmed fraud after investigation
+215,41900,27-07-2025,Identity Theft,customer,Rejected,48882.9,
+216,35555,07-05-2026,Account Takeover,Bank System,Rejected,15845.47,  pending review  
+217,10011,22-01-2025,Card Skimming,Customer,Rejected,0,
+218,28107,31-10-2024,Phishing,Third Party Alert,Resolved,27009.87,Awaiting bank verification
+219,31446,04-08-2025,Phishing,Bank System,PENDING,16630.58,Awaiting bank verification
+220,15467,18-03-2026,SIM Swap,Bank System,Resolved,0,Confirmed fraud after investigation
+221,31358,04-07-2025,SIM Swap,customer,Rejected,15465.59,Customer reported unauthorized transaction
+222,28755,30-06-2025,Card Skimming,Customer,Under Investigation,39115.93,
+223,13223,17-04-2025,,customer,Rejected,0,
+224,12307,30-12-2024,Card Skimming,Third Party Alert,PENDING,38230.95,Awaiting bank verification
+225,2764,22-08-2024,SIM Swap,Customer,resolved,30335.39,  pending review  
+226,30147,16-04-2026,Identity Theft,customer,Under Investigation,0,Confirmed fraud after investigation
+227,27263,30-01-2025,Phishing,Third Party Alert,Resolved,0,Customer reported unauthorized transaction
+228,17671,21-01-2025,Card Skimming,Bank System,Rejected,8281.11,  pending review  
+229,34521,20-11-2025,SIM Swap,Customer,Resolved,0,
+230,33394,24-01-2025,SIM Swap,customer,Rejected,21422.57,
+231,48836,26-07-2026,phishing,Customer,PENDING,0,Customer reported unauthorized transaction
+232,43070,16-03-2026,Identity Theft,customer,PENDING,0,
+233,37607,17-10-2024,Identity Theft,Bank System,resolved,0,Customer reported unauthorized transaction
+234,23977,19-11-2025,Identity Theft,customer,Rejected,40097.44,
+235,48307,01-02-2026,Account Takeover,Bank System,Resolved,110.63,Customer reported unauthorized transaction
+236,5930,18-01-2025,Card Skimming,Third Party Alert,Resolved,0,Confirmed fraud after investigation
+237,38959,03-03-2026,Identity Theft,Bank System,resolved,22607.63,Confirmed fraud after investigation
+238,34747,03-07-2026,phishing,Third Party Alert,Rejected,30976.64,Confirmed fraud after investigation
+239,1316,22-12-2024,phishing,Third Party Alert,PENDING,0,Confirmed fraud after investigation
+240,11396,17-10-2025,Phishing,Bank System,Resolved,3499.31,  pending review  
+241,39126,16-09-2024,Account Takeover,Third Party Alert,Under Investigation,0,
+242,33839,21-09-2024,Card Skimming,Bank System,Rejected,922.48,  pending review  
+243,11112,19-11-2025,phishing,Bank System,PENDING,24152.16,  pending review  
+244,12893,18-01-2025,SIM Swap,Third Party Alert,Under Investigation,9613.92,Customer reported unauthorized transaction
+245,22813,25-06-2026,Card Skimming,Bank System,Rejected,23989.02,Customer reported unauthorized transaction
+246,16035,18-07-2026,Phishing,customer,Resolved,0,Confirmed fraud after investigation
+247,28087,28-05-2026,Phishing,Bank System,Rejected,0,  pending review  
+248,5379,05-08-2025,,Bank System,Resolved,0,Awaiting bank verification
+249,6045,11-10-2025,Card Skimming,Customer,PENDING,15343.44,Customer reported unauthorized transaction
+250,10293,22-11-2025,SIM Swap,customer,Under Investigation,328.13,Awaiting bank verification
+251,30325,08-02-2026,SIM Swap,Customer,Resolved,45828.21,  pending review  
+252,13834,28-11-2025,phishing,Bank System,Under Investigation,29738.53,Confirmed fraud after investigation
+253,48110,19-07-2026,,customer,Under Investigation,20189.52,Awaiting bank verification
+254,41074,05-05-2025,SIM Swap,Third Party Alert,Under Investigation,28311.27,Customer reported unauthorized transaction
+255,16432,14-03-2025,phishing,Customer,PENDING,0,Awaiting bank verification
+256,7021,15-05-2026,phishing,Third Party Alert,Under Investigation,17173.49,Awaiting bank verification
+257,18110,06-11-2025,phishing,Bank System,PENDING,41637.66,
+258,3695,18-10-2025,Phishing,Bank System,resolved,9974.05,  pending review  
+259,39141,17-08-2025,Phishing,Customer,PENDING,0,Customer reported unauthorized transaction
+260,34380,05-04-2026,Phishing,Bank System,PENDING,3448.65,
+261,37221,11-09-2024,Card Skimming,Customer,Under Investigation,25876.72,Confirmed fraud after investigation
+262,14565,28-05-2026,Phishing,Customer,PENDING,45638.7,  pending review  
+263,49786,27-11-2025,Phishing,Customer,Rejected,1173.3,
+264,1750,01-09-2024,,Third Party Alert,Rejected,41245.69,
+265,12375,30-12-2025,Identity Theft,Third Party Alert,resolved,26106.58,Confirmed fraud after investigation
+266,5543,20-10-2025,Card Skimming,customer,resolved,0,Confirmed fraud after investigation
+267,38890,21-10-2024,Phishing,customer,Resolved,0,  pending review  
+268,10158,01-01-2025,Account Takeover,customer,Resolved,29929.2,Customer reported unauthorized transaction
+269,8679,03-01-2026,phishing,Customer,Rejected,16338.76,
+270,18284,06-08-2024,phishing,customer,PENDING,19641.91,
+271,9131,14-12-2024,,Third Party Alert,Rejected,25528.02,  pending review  
+272,20460,03-03-2025,phishing,Third Party Alert,Resolved,0,Customer reported unauthorized transaction
+273,30487,07-02-2025,Phishing,Customer,resolved,16136.12,Confirmed fraud after investigation
+274,15225,08-03-2025,Identity Theft,Third Party Alert,Rejected,49327.47,Customer reported unauthorized transaction
+275,29851,04-01-2025,Account Takeover,customer,PENDING,0,  pending review  
+276,4184,09-03-2025,,customer,Resolved,0,
+277,4699,26-11-2025,Account Takeover,Bank System,PENDING,34901.03,Confirmed fraud after investigation
+278,23036,06-04-2026,SIM Swap,Customer,resolved,2339.57,  pending review  
+279,4830,10-09-2024,,Third Party Alert,Rejected,48043.11,Customer reported unauthorized transaction
+280,25774,26-11-2025,phishing,Bank System,PENDING,6724.3,Confirmed fraud after investigation
+281,12200,01-05-2025,Account Takeover,Customer,Rejected,18731.97,Awaiting bank verification
+282,43414,24-12-2025,Phishing,Third Party Alert,resolved,22484.44,Customer reported unauthorized transaction
+283,5269,11-08-2024,Card Skimming,customer,resolved,19244.2,  pending review  
+284,23034,18-11-2024,Account Takeover,Third Party Alert,resolved,0,
+285,4689,22-08-2025,,Third Party Alert,Resolved,24431.89,Customer reported unauthorized transaction
+286,24333,02-10-2024,,Third Party Alert,Under Investigation,0,  pending review  
+287,16389,07-07-2026,Account Takeover,Third Party Alert,Rejected,0,  pending review  
+288,29968,29-10-2025,Identity Theft,Bank System,resolved,0,
+289,19908,04-07-2026,Account Takeover,customer,Rejected,47607.66,Awaiting bank verification
+290,7026,14-10-2025,Card Skimming,Third Party Alert,Resolved,31714.62,  pending review  
+291,15235,12-07-2026,SIM Swap,Customer,Under Investigation,0,Confirmed fraud after investigation
+292,10468,30-05-2026,Phishing,Bank System,Under Investigation,0,  pending review  
+293,14794,13-07-2026,Account Takeover,Third Party Alert,Under Investigation,45506.35,Confirmed fraud after investigation
+294,35566,08-01-2025,Phishing,customer,resolved,8651.32,Customer reported unauthorized transaction
+295,27685,18-05-2025,Account Takeover,Customer,Resolved,2470.45,Customer reported unauthorized transaction
+296,20653,26-04-2026,Account Takeover,Third Party Alert,Under Investigation,10397.24,Awaiting bank verification
+297,2263,02-12-2025,Account Takeover,Customer,resolved,0,Customer reported unauthorized transaction
+298,40111,10-04-2025,Phishing,customer,resolved,27064.43,Awaiting bank verification
+299,11793,04-06-2025,Phishing,Customer,resolved,0,Confirmed fraud after investigation
+300,41813,02-02-2026,Identity Theft,Customer,resolved,20579.25,Awaiting bank verification
+301,14216,05-12-2025,Account Takeover,customer,Under Investigation,0,Confirmed fraud after investigation
+302,49089,13-10-2025,Account Takeover,Third Party Alert,resolved,0,Confirmed fraud after investigation
+303,25813,29-06-2026,Identity Theft,customer,resolved,19206.76,Confirmed fraud after investigation
+304,16556,27-12-2025,Identity Theft,customer,PENDING,19844.93,  pending review  
+305,19637,13-03-2025,Identity Theft,customer,Resolved,16915.54,  pending review  
+306,28052,04-10-2024,Phishing,Bank System,Resolved,0,Confirmed fraud after investigation
+307,23293,17-09-2025,SIM Swap,Customer,Resolved,23178.29,Customer reported unauthorized transaction
+308,34832,27-01-2025,phishing,Third Party Alert,Rejected,0,
+309,8723,23-06-2026,Card Skimming,Bank System,Resolved,0,  pending review  
+310,28393,08-01-2026,Card Skimming,Third Party Alert,Resolved,20432.12,Awaiting bank verification
+311,27327,14-09-2025,Identity Theft,customer,resolved,0,
+312,2449,15-03-2025,phishing,customer,PENDING,907.28,Confirmed fraud after investigation
+313,5641,11-10-2025,SIM Swap,Third Party Alert,Rejected,0,Confirmed fraud after investigation
+314,18777,29-07-2025,Identity Theft,customer,Under Investigation,2401.79,
+315,14962,14-07-2025,Phishing,Customer,Rejected,0,Customer reported unauthorized transaction
+316,37697,02-10-2024,,Bank System,Resolved,0,Confirmed fraud after investigation
+317,17092,25-06-2026,,Customer,resolved,0,Awaiting bank verification
+318,1044,10-09-2025,SIM Swap,Bank System,Rejected,0,
+319,40582,10-10-2024,Card Skimming,customer,Rejected,26762.05,Customer reported unauthorized transaction
+320,40289,21-05-2025,Identity Theft,Third Party Alert,Under Investigation,34626.74,  pending review  
+321,1852,17-03-2025,,Third Party Alert,Rejected,0,Customer reported unauthorized transaction
+322,29409,06-10-2024,Identity Theft,customer,Resolved,33604.16,Confirmed fraud after investigation
+323,24445,05-02-2026,Identity Theft,customer,Rejected,0,Confirmed fraud after investigation
+324,49809,25-05-2026,Account Takeover,customer,Resolved,0,Customer reported unauthorized transaction
+325,28935,03-01-2025,Account Takeover,Customer,Under Investigation,48864.76,Confirmed fraud after investigation
+326,37678,26-03-2026,Phishing,Bank System,Under Investigation,19712.93,  pending review  
+327,35946,03-07-2026,Phishing,Bank System,Resolved,0,
+328,2046,20-11-2024,phishing,Customer,Under Investigation,0,Awaiting bank verification
+329,12935,02-01-2026,Account Takeover,Third Party Alert,Resolved,0,
+330,13321,24-06-2025,phishing,Bank System,Under Investigation,37300.14,  pending review  
+331,45814,19-02-2025,Account Takeover,customer,Rejected,0,  pending review  
+332,48561,08-05-2025,Account Takeover,Customer,Resolved,198.66,Awaiting bank verification
+333,20984,11-01-2025,,Third Party Alert,Under Investigation,0,
+334,42306,30-05-2025,phishing,customer,PENDING,16592.05,
+335,25458,06-07-2026,phishing,Third Party Alert,Under Investigation,41484.53,Customer reported unauthorized transaction
+336,14880,20-10-2024,Identity Theft,Bank System,Rejected,0,  pending review  
+337,30311,16-12-2025,,customer,Rejected,19150.77,  pending review  
+338,6282,04-10-2025,Card Skimming,Customer,Under Investigation,0,  pending review  
+339,9929,12-03-2025,Phishing,Third Party Alert,Resolved,13835.55,
+340,21617,06-07-2026,phishing,Customer,Resolved,2241.6,Confirmed fraud after investigation
+341,40272,07-11-2025,Card Skimming,Third Party Alert,Resolved,0,Customer reported unauthorized transaction
+342,13871,10-07-2026,phishing,Bank System,PENDING,0,Customer reported unauthorized transaction
+343,4164,27-12-2024,Card Skimming,Third Party Alert,Resolved,0,Awaiting bank verification
+344,11846,27-11-2025,Account Takeover,Customer,Resolved,36698.28,
+345,28952,06-10-2024,phishing,Customer,Rejected,0,Confirmed fraud after investigation
+346,2706,10-06-2026,Account Takeover,Bank System,resolved,0,Customer reported unauthorized transaction
+347,274,03-01-2025,SIM Swap,customer,PENDING,33404.45,Confirmed fraud after investigation
+348,5544,07-11-2024,phishing,Customer,Resolved,0,Confirmed fraud after investigation
+349,49399,15-12-2025,,Customer,PENDING,17505.56,  pending review  
+350,26340,31-10-2025,Card Skimming,customer,Rejected,30558.65,
+351,48031,23-05-2026,Phishing,Customer,Rejected,49528.54,Customer reported unauthorized transaction
+352,49590,02-10-2024,SIM Swap,Bank System,Resolved,0,  pending review  
+353,38441,12-05-2026,Identity Theft,Bank System,Rejected,1956.61,
+354,29127,11-08-2025,SIM Swap,customer,PENDING,21448.65,Customer reported unauthorized transaction
+355,19106,17-07-2026,Card Skimming,Third Party Alert,Resolved,22427.1,Customer reported unauthorized transaction
+356,34668,08-05-2026,SIM Swap,Third Party Alert,resolved,11765.27,Confirmed fraud after investigation
+357,6287,22-01-2025,Identity Theft,Customer,PENDING,6404.33,  pending review  
+358,17755,29-11-2024,Phishing,Customer,Under Investigation,31982.26,  pending review  
+359,21615,13-06-2025,,customer,Resolved,0,  pending review  
+360,45672,09-12-2025,,Customer,Under Investigation,23626.82,Customer reported unauthorized transaction
+361,39849,29-01-2026,Phishing,Customer,Resolved,23827.09,Customer reported unauthorized transaction
+362,44979,07-03-2026,Card Skimming,customer,resolved,40165.14,Awaiting bank verification
+363,27248,22-05-2025,phishing,Bank System,resolved,0,Awaiting bank verification
+364,30023,21-11-2025,Phishing,customer,PENDING,0,
+365,33809,11-05-2025,SIM Swap,Bank System,resolved,0,  pending review  
+366,16418,13-05-2026,Account Takeover,Bank System,Resolved,0,  pending review  
+367,19096,20-08-2025,Card Skimming,Customer,Resolved,32271.36,  pending review  
+368,46526,28-04-2026,Phishing,Bank System,Resolved,24343.2,Customer reported unauthorized transaction
+369,35722,08-12-2025,Account Takeover,Bank System,Rejected,0,  pending review  
+370,46786,29-03-2026,Identity Theft,Customer,resolved,13046.25,Customer reported unauthorized transaction
+371,7363,01-02-2026,Identity Theft,customer,resolved,0,
+372,18195,27-06-2025,Card Skimming,customer,PENDING,0,Confirmed fraud after investigation
+373,45324,30-07-2026,SIM Swap,Third Party Alert,Rejected,7298.19,Confirmed fraud after investigation
+374,37351,28-06-2026,Account Takeover,Customer,resolved,0,  pending review  
+375,23113,16-04-2026,,Third Party Alert,Resolved,1012.57,Confirmed fraud after investigation
+376,18238,07-08-2024,phishing,Customer,Under Investigation,0,Customer reported unauthorized transaction
+377,15942,07-11-2025,Identity Theft,Bank System,Resolved,17865.83,Awaiting bank verification
+378,38464,13-03-2026,phishing,Third Party Alert,Resolved,44591.57,Customer reported unauthorized transaction
+379,44465,11-01-2026,Phishing,Bank System,PENDING,20226.57,Awaiting bank verification
+380,2262,18-12-2024,Account Takeover,Third Party Alert,PENDING,3019.96,  pending review  
+381,964,21-07-2025,Account Takeover,customer,Rejected,0,Awaiting bank verification
+382,39374,26-06-2026,Account Takeover,Bank System,Under Investigation,49117.05,
+383,15791,15-01-2026,Phishing,Third Party Alert,Resolved,0,
+384,29423,07-10-2024,Phishing,Bank System,Under Investigation,0,Customer reported unauthorized transaction
+385,30676,05-02-2026,phishing,Bank System,Rejected,48249.15,  pending review  
+386,25304,17-02-2025,Card Skimming,customer,PENDING,0,Awaiting bank verification
+387,36035,13-09-2024,,Customer,Resolved,23187.97,Awaiting bank verification
+388,35110,04-11-2024,SIM Swap,Customer,PENDING,43702.67,  pending review  
+389,5361,22-03-2026,Card Skimming,customer,Rejected,48566.67,
+390,45468,13-01-2026,Identity Theft,customer,Under Investigation,44531.03,  pending review  
+391,11160,15-06-2026,Account Takeover,Third Party Alert,Under Investigation,0,Confirmed fraud after investigation
+392,31296,31-07-2026,phishing,Third Party Alert,Resolved,0,Customer reported unauthorized transaction
+393,1446,26-03-2026,phishing,Third Party Alert,resolved,4909.01,Confirmed fraud after investigation
+394,23017,29-07-2026,Phishing,Bank System,Rejected,19132.28,Awaiting bank verification
+395,26022,11-07-2025,Phishing,Third Party Alert,Resolved,23070.36,  pending review  
+396,27752,08-11-2024,Account Takeover,customer,Resolved,6355.6,Confirmed fraud after investigation
+397,37334,20-03-2026,Identity Theft,Customer,resolved,0,Awaiting bank verification
+398,26644,26-02-2025,phishing,Third Party Alert,PENDING,0,
+399,15599,22-10-2024,Identity Theft,Bank System,Under Investigation,19935.77,Confirmed fraud after investigation
+400,22836,28-06-2026,Identity Theft,Bank System,resolved,0,Customer reported unauthorized transaction
+401,7231,06-07-2025,,Bank System,resolved,45515.8,Customer reported unauthorized transaction
+402,6321,03-12-2025,phishing,customer,Resolved,0,Confirmed fraud after investigation
+403,16338,04-10-2025,phishing,Bank System,Rejected,2306.62,Awaiting bank verification
+404,32698,10-07-2026,Identity Theft,Third Party Alert,Rejected,10415.26,Awaiting bank verification
+405,30853,16-01-2026,phishing,Customer,PENDING,6608.69,Confirmed fraud after investigation
+406,47333,18-08-2024,SIM Swap,customer,resolved,1577.59,  pending review  
+407,27434,06-07-2025,,Bank System,PENDING,0,Confirmed fraud after investigation
+408,14716,01-04-2026,phishing,Customer,PENDING,34444.11,
+409,46831,08-07-2026,SIM Swap,Third Party Alert,PENDING,15143.17,  pending review  
+410,365,16-03-2025,,customer,resolved,0,
+411,39049,10-11-2024,SIM Swap,customer,Under Investigation,0,  pending review  
+412,13074,22-11-2025,Identity Theft,Bank System,resolved,1476.49,  pending review  
+413,22074,16-01-2026,phishing,customer,resolved,825.2,Customer reported unauthorized transaction
+414,26490,03-05-2025,,customer,resolved,4499.71,Confirmed fraud after investigation
+415,506,28-03-2025,SIM Swap,Bank System,resolved,11333.14,  pending review  
+416,48097,16-02-2025,Account Takeover,customer,resolved,27419.6,Awaiting bank verification
+417,1633,08-05-2026,Account Takeover,Bank System,Under Investigation,36067.57,Confirmed fraud after investigation
+418,31155,26-10-2024,Identity Theft,customer,PENDING,43973.6,Awaiting bank verification
+419,24545,18-01-2026,phishing,customer,PENDING,4813.12,Confirmed fraud after investigation
+420,32319,16-02-2026,Phishing,Customer,PENDING,40199.2,Confirmed fraud after investigation
+421,32265,05-10-2024,Account Takeover,customer,PENDING,0,
+422,43776,17-11-2024,phishing,Customer,Rejected,0,Awaiting bank verification
+423,41348,11-03-2025,Card Skimming,customer,resolved,0,  pending review  
+424,46061,14-12-2025,Card Skimming,customer,Under Investigation,0,Confirmed fraud after investigation
+425,7426,30-08-2024,Account Takeover,Bank System,Rejected,0,  pending review  
+426,44110,15-08-2024,Phishing,Customer,Resolved,0,Awaiting bank verification
+427,17215,09-09-2024,Phishing,Third Party Alert,resolved,0,  pending review  
+428,31546,06-09-2024,phishing,Third Party Alert,Resolved,42789.47,Awaiting bank verification
+429,22060,20-09-2024,Phishing,Third Party Alert,Resolved,0,
+430,27541,05-10-2025,Card Skimming,Customer,Resolved,0,
+431,9869,20-12-2025,Identity Theft,Customer,Rejected,21525.42,Awaiting bank verification
+432,43379,17-06-2025,Account Takeover,customer,Rejected,41679.47,Awaiting bank verification
+433,2952,07-04-2026,Phishing,Bank System,resolved,0,Awaiting bank verification
+434,6421,29-09-2024,Identity Theft,Customer,PENDING,33632.74,Confirmed fraud after investigation
+435,27805,23-01-2025,Phishing,Third Party Alert,Under Investigation,40953.09,Customer reported unauthorized transaction
+436,5139,05-09-2025,Phishing,Third Party Alert,resolved,0,
+437,22185,17-06-2026,Account Takeover,customer,Rejected,47771.59,Customer reported unauthorized transaction
+438,5903,01-12-2025,,customer,PENDING,3037.18,Awaiting bank verification
+439,45336,02-03-2025,Identity Theft,Bank System,PENDING,49594.62,
+440,19254,19-01-2026,Phishing,Bank System,PENDING,28800.31,Confirmed fraud after investigation
+441,49344,23-08-2025,Account Takeover,Third Party Alert,resolved,28932.45,Customer reported unauthorized transaction
+442,15217,23-02-2026,,Customer,Resolved,18033.46,Confirmed fraud after investigation
+443,20895,19-12-2024,phishing,Third Party Alert,Resolved,0,  pending review  
+444,2482,15-04-2025,,Bank System,Resolved,25372.15,Customer reported unauthorized transaction
+445,8090,27-05-2025,SIM Swap,Third Party Alert,Under Investigation,0,Awaiting bank verification
+446,7735,20-02-2026,phishing,Bank System,resolved,26796.17,  pending review  
+447,45593,20-06-2025,phishing,Bank System,PENDING,18075.87,Customer reported unauthorized transaction
+448,48118,04-01-2025,Account Takeover,Third Party Alert,Resolved,0,Customer reported unauthorized transaction
+449,10167,15-12-2024,phishing,customer,Resolved,27178.17,
+450,42031,20-06-2025,Phishing,Third Party Alert,Under Investigation,0,
+451,6819,24-10-2024,Identity Theft,Third Party Alert,Resolved,30953.69,Customer reported unauthorized transaction
+452,18258,24-02-2025,Account Takeover,Third Party Alert,Rejected,16568.9,Awaiting bank verification
+453,39155,07-08-2024,Account Takeover,Bank System,Under Investigation,1924.34,Confirmed fraud after investigation
+454,29377,23-10-2024,Account Takeover,Third Party Alert,PENDING,20027.75,  pending review  
+455,4389,25-07-2025,Identity Theft,Third Party Alert,Resolved,0,Customer reported unauthorized transaction
+456,39657,14-12-2025,Account Takeover,customer,PENDING,23629.51,  pending review  
+457,3734,27-04-2025,Phishing,Bank System,Resolved,4163.51,Confirmed fraud after investigation
+458,13651,02-03-2026,Account Takeover,customer,resolved,3103.18,  pending review  
+459,45070,07-05-2026,Card Skimming,Customer,Rejected,46053.22,  pending review  
+460,28241,21-06-2025,phishing,Bank System,PENDING,0,Awaiting bank verification
+461,6018,22-06-2026,phishing,Bank System,Rejected,8880.24,
+462,20726,18-09-2025,Card Skimming,Third Party Alert,Rejected,0,Awaiting bank verification
+463,14738,07-03-2026,SIM Swap,customer,Rejected,0,Awaiting bank verification
+464,33247,08-05-2026,SIM Swap,Third Party Alert,resolved,28379.65,Awaiting bank verification
+465,2910,27-08-2024,Identity Theft,customer,Resolved,29085.71,  pending review  
+466,34173,02-05-2025,Card Skimming,Customer,Under Investigation,0,  pending review  
+467,21978,25-05-2026,Account Takeover,Bank System,Resolved,0,Customer reported unauthorized transaction
+468,40361,27-04-2025,,Bank System,Under Investigation,27600.67,Customer reported unauthorized transaction
+469,6339,10-09-2025,phishing,Third Party Alert,Resolved,15691.4,
+470,13732,13-09-2025,Card Skimming,Third Party Alert,Under Investigation,4192.22,
+471,48990,05-07-2025,Account Takeover,Customer,Resolved,21845.08,Awaiting bank verification
+472,45362,25-09-2024,SIM Swap,Third Party Alert,PENDING,17301.04,
+473,21693,22-10-2025,,customer,PENDING,0,Customer reported unauthorized transaction
+474,28089,06-06-2026,SIM Swap,Third Party Alert,PENDING,0,Customer reported unauthorized transaction
+475,39917,14-11-2024,SIM Swap,Third Party Alert,Rejected,0,Customer reported unauthorized transaction
+476,6054,24-05-2025,Identity Theft,Third Party Alert,Under Investigation,36181,
+477,3539,03-10-2024,Phishing,Customer,resolved,0,Customer reported unauthorized transaction
+478,14887,02-06-2025,SIM Swap,Customer,PENDING,0,Customer reported unauthorized transaction
+479,25934,09-05-2025,Card Skimming,customer,Under Investigation,3233.91,Confirmed fraud after investigation
+480,15140,19-07-2025,Account Takeover,Bank System,PENDING,1265.68,Customer reported unauthorized transaction
+481,1609,29-08-2024,SIM Swap,Bank System,Rejected,0,Confirmed fraud after investigation
+482,14115,08-11-2025,Account Takeover,Bank System,Under Investigation,6990.93,
+483,42283,11-09-2025,Account Takeover,customer,Resolved,20575.34,Awaiting bank verification
+484,15024,24-12-2024,,Third Party Alert,Resolved,34430.97,
+485,48714,30-04-2026,,customer,resolved,41268.09,  pending review  
+486,15823,01-07-2026,phishing,Third Party Alert,Resolved,46305.67,  pending review  
+487,46034,06-10-2025,Card Skimming,Customer,resolved,0,
+488,34352,26-08-2025,Phishing,Bank System,Rejected,45076.06,Customer reported unauthorized transaction
+489,31088,29-09-2024,Card Skimming,Bank System,Rejected,0,
+490,15756,07-10-2024,Card Skimming,Third Party Alert,Resolved,0,
+491,19017,04-04-2025,phishing,Third Party Alert,resolved,0,
+492,43978,19-08-2024,SIM Swap,customer,PENDING,0,Awaiting bank verification
+493,40854,03-04-2026,Identity Theft,Third Party Alert,Under Investigation,13834.99,Customer reported unauthorized transaction
+494,49802,25-08-2024,Phishing,Customer,resolved,45310.72,  pending review  
+495,7699,15-10-2025,Phishing,Customer,PENDING,1536.36,Confirmed fraud after investigation
+496,6854,14-08-2025,Account Takeover,customer,PENDING,9550.6,Customer reported unauthorized transaction
+497,43155,27-10-2025,Phishing,customer,resolved,30968.93,Confirmed fraud after investigation
+498,27736,16-03-2026,Card Skimming,customer,Rejected,0,  pending review  
+499,45751,19-05-2025,SIM Swap,Bank System,Resolved,7807.96,Confirmed fraud after investigation
+500,31040,27-09-2024,Card Skimming,Bank System,Under Investigation,16666.18,Customer reported unauthorized transaction
+501,28251,29-05-2025,phishing,Third Party Alert,resolved,18723.75,  pending review  
+502,22591,09-05-2026,phishing,customer,Rejected,7838.22,Confirmed fraud after investigation
+503,28973,01-01-2026,Identity Theft,Third Party Alert,Under Investigation,21513.89,Customer reported unauthorized transaction
+504,41592,26-06-2026,Identity Theft,Customer,resolved,0,
+505,7063,05-09-2025,phishing,customer,Rejected,38267.67,
+506,29078,07-01-2026,Identity Theft,Customer,Rejected,0,Confirmed fraud after investigation
+507,46538,18-01-2025,Identity Theft,customer,Rejected,49113.03,Awaiting bank verification
+508,40716,13-05-2026,Card Skimming,customer,Resolved,0,Customer reported unauthorized transaction
+509,4169,16-03-2025,Identity Theft,customer,Resolved,15610.99,Customer reported unauthorized transaction
+510,45973,01-08-2025,Phishing,Bank System,resolved,0,  pending review  
+511,25415,30-12-2024,,Customer,Under Investigation,28975.92,  pending review  
+512,9242,23-02-2025,Card Skimming,Third Party Alert,Rejected,31195.12,  pending review  
+513,39923,03-11-2024,phishing,Customer,Under Investigation,0,Confirmed fraud after investigation
+514,24680,08-06-2026,Phishing,customer,PENDING,0,Confirmed fraud after investigation
+515,6311,21-09-2024,Identity Theft,Bank System,Resolved,44178.77,Customer reported unauthorized transaction
+516,26286,15-12-2024,Account Takeover,customer,Resolved,0,Confirmed fraud after investigation
+517,30322,20-12-2024,,Third Party Alert,Under Investigation,0,Customer reported unauthorized transaction
+518,12439,17-11-2025,,Bank System,PENDING,24463.15,Confirmed fraud after investigation
+519,22062,11-02-2025,phishing,customer,Resolved,0,
+520,14136,27-07-2025,Account Takeover,Customer,PENDING,0,Awaiting bank verification
+521,33743,23-12-2025,Phishing,Third Party Alert,Under Investigation,7880.53,Customer reported unauthorized transaction
+522,3378,16-06-2026,SIM Swap,Bank System,resolved,0,
+523,29418,11-04-2026,,Customer,resolved,26361.23,Confirmed fraud after investigation
+524,370,18-02-2026,SIM Swap,Third Party Alert,Resolved,1396.19,Customer reported unauthorized transaction
+525,17964,22-02-2026,Account Takeover,Bank System,Resolved,40103.11,Confirmed fraud after investigation
+526,35422,01-02-2026,SIM Swap,Third Party Alert,resolved,24580.92,Confirmed fraud after investigation
+527,46828,15-05-2026,Card Skimming,Customer,resolved,0,Awaiting bank verification
+528,37152,23-01-2025,Account Takeover,Customer,Resolved,32073.09,Awaiting bank verification
+529,18815,08-07-2025,,Third Party Alert,Under Investigation,24603.14,Customer reported unauthorized transaction
+530,146,20-03-2025,Card Skimming,Customer,PENDING,0,  pending review  
+531,26887,13-06-2025,Identity Theft,Bank System,Resolved,21263.28,Customer reported unauthorized transaction
+532,19829,11-11-2025,Phishing,customer,PENDING,5203.77,
+533,7069,19-10-2025,,Third Party Alert,PENDING,0,
+534,40907,04-06-2025,Identity Theft,Third Party Alert,resolved,0,Awaiting bank verification
+535,8330,13-12-2024,Identity Theft,Customer,PENDING,17742.05,Customer reported unauthorized transaction
+536,24751,04-03-2025,Card Skimming,Bank System,Under Investigation,742.54,Customer reported unauthorized transaction
+537,13503,01-05-2025,Account Takeover,customer,Under Investigation,1993.04,  pending review  
+538,25537,07-03-2025,Phishing,customer,PENDING,23470.37,Customer reported unauthorized transaction
+539,36141,30-05-2025,phishing,Customer,resolved,15878.73,Customer reported unauthorized transaction
+540,16341,06-03-2025,Account Takeover,customer,resolved,20704.72,Confirmed fraud after investigation
+541,25854,11-04-2025,Phishing,Bank System,PENDING,10154.09,Confirmed fraud after investigation
+542,12008,31-10-2024,SIM Swap,customer,Under Investigation,25781.33,Awaiting bank verification
+543,29158,06-05-2026,phishing,Customer,resolved,0,  pending review  
+544,27568,18-09-2025,phishing,Customer,Resolved,35565.66,Awaiting bank verification
+545,14589,21-05-2026,Card Skimming,Customer,Under Investigation,0,Awaiting bank verification
+546,12624,24-06-2026,Account Takeover,Third Party Alert,Resolved,0,Awaiting bank verification
+547,40144,25-09-2025,phishing,Third Party Alert,PENDING,4740.21,Customer reported unauthorized transaction
+548,46288,09-02-2025,Account Takeover,Bank System,PENDING,19806.98,Confirmed fraud after investigation
+549,34917,01-12-2024,phishing,Bank System,Rejected,8637.69,Awaiting bank verification
+550,8818,20-03-2025,Identity Theft,Bank System,PENDING,0,Confirmed fraud after investigation
+551,7007,27-06-2026,phishing,Bank System,Under Investigation,0,Confirmed fraud after investigation
+552,41707,11-10-2025,phishing,Customer,resolved,49878.37,Customer reported unauthorized transaction
+553,7640,12-05-2026,Card Skimming,customer,Rejected,0,
+554,27832,24-09-2025,phishing,Customer,resolved,0,Awaiting bank verification
+555,7876,21-01-2026,Identity Theft,Third Party Alert,resolved,0,Customer reported unauthorized transaction
+556,37316,02-03-2026,SIM Swap,Bank System,Resolved,27720.08,Customer reported unauthorized transaction
+557,1030,12-08-2025,,Customer,PENDING,22553.79,Awaiting bank verification
+558,48433,12-10-2025,phishing,customer,Rejected,41275.64,Confirmed fraud after investigation
+559,84,29-10-2024,SIM Swap,customer,Under Investigation,0,Confirmed fraud after investigation
+560,40351,23-03-2025,Identity Theft,Bank System,resolved,0,  pending review  
+561,2790,01-12-2025,,Third Party Alert,resolved,39026.68,  pending review  
+562,49937,20-05-2026,Identity Theft,customer,Resolved,0,Confirmed fraud after investigation
+563,49679,06-11-2025,SIM Swap,Third Party Alert,Rejected,32237.37,Customer reported unauthorized transaction
+564,39620,20-06-2026,phishing,Customer,Under Investigation,0,
+565,47471,08-07-2026,Account Takeover,customer,Resolved,15467.81,  pending review  
+566,6777,02-02-2026,SIM Swap,customer,Rejected,25015.77,Customer reported unauthorized transaction
+567,45639,12-01-2025,Phishing,Customer,PENDING,47311.15,  pending review  
+568,2342,09-10-2024,,Third Party Alert,Resolved,18174.22,
+569,1145,27-07-2026,,Third Party Alert,PENDING,0,Awaiting bank verification
+570,34570,09-04-2026,phishing,Customer,resolved,0,Awaiting bank verification
+571,3640,03-02-2026,,Customer,PENDING,0,
+572,27711,09-03-2025,phishing,customer,Rejected,0,Awaiting bank verification
+573,5216,17-08-2025,,Bank System,Rejected,43196.24,Confirmed fraud after investigation
+574,42631,11-09-2025,,Customer,resolved,13703.84,Customer reported unauthorized transaction
+575,1686,17-04-2026,SIM Swap,Customer,PENDING,0,Awaiting bank verification
+576,36705,20-01-2025,Account Takeover,Bank System,PENDING,10276.61,Confirmed fraud after investigation
+577,25630,23-09-2024,,Third Party Alert,Under Investigation,0,
+578,25768,29-01-2026,SIM Swap,customer,Rejected,47174.07,Customer reported unauthorized transaction
+579,36350,14-03-2025,phishing,customer,PENDING,11745.87,Awaiting bank verification
+580,40125,09-05-2025,Card Skimming,Bank System,Resolved,0,Confirmed fraud after investigation
+581,8732,04-06-2026,Card Skimming,Bank System,PENDING,0,Confirmed fraud after investigation
+582,32392,29-09-2024,Account Takeover,Customer,resolved,19215.36,Awaiting bank verification
+583,14535,14-11-2025,Identity Theft,Third Party Alert,Resolved,0,Customer reported unauthorized transaction
+584,11090,19-04-2025,Identity Theft,Customer,Under Investigation,0,Confirmed fraud after investigation
+585,27964,15-11-2024,SIM Swap,Customer,Resolved,22246.24,Confirmed fraud after investigation
+586,7779,13-07-2026,Identity Theft,Customer,Under Investigation,0,Customer reported unauthorized transaction
+587,40606,30-09-2024,Card Skimming,Bank System,PENDING,11327.26,  pending review  
+588,37804,03-03-2026,,Customer,Under Investigation,0,Customer reported unauthorized transaction
+589,26155,07-05-2026,SIM Swap,Third Party Alert,PENDING,0,Confirmed fraud after investigation
+590,47328,24-08-2024,Account Takeover,Bank System,PENDING,44953.51,
+591,38031,08-08-2025,SIM Swap,Bank System,PENDING,0,Awaiting bank verification
+592,17940,25-10-2024,Card Skimming,Third Party Alert,Rejected,0,Confirmed fraud after investigation
+593,43929,17-05-2026,SIM Swap,Bank System,Resolved,41634.32,Confirmed fraud after investigation
+594,35731,13-03-2026,SIM Swap,Third Party Alert,Resolved,0,  pending review  
+595,26272,25-09-2024,Card Skimming,Customer,Resolved,35553.33,Customer reported unauthorized transaction
+596,1276,28-03-2026,SIM Swap,Third Party Alert,resolved,4546.17,  pending review  
+597,6350,05-11-2025,Identity Theft,Bank System,PENDING,33487.71,Awaiting bank verification
+598,24608,16-09-2024,Identity Theft,Bank System,Under Investigation,115.08,Confirmed fraud after investigation
+599,22461,13-08-2025,Phishing,Bank System,resolved,0,Awaiting bank verification
+600,21019,13-04-2025,,Third Party Alert,resolved,35222.4,  pending review  
+601,2149,15-02-2025,Identity Theft,Customer,Resolved,41130.65,Confirmed fraud after investigation
+602,34121,23-09-2024,phishing,Third Party Alert,Under Investigation,34621.02,Customer reported unauthorized transaction
+603,7845,10-07-2026,Identity Theft,Bank System,PENDING,29072.39,Awaiting bank verification
+604,2589,26-02-2026,Phishing,customer,PENDING,0,
+605,16644,07-04-2026,,Third Party Alert,Under Investigation,26156.07,  pending review  
+606,42064,15-11-2024,,Customer,Under Investigation,0,Customer reported unauthorized transaction
+607,12755,16-12-2025,Card Skimming,Bank System,Resolved,8521.65,Customer reported unauthorized transaction
+608,22740,13-08-2025,SIM Swap,customer,PENDING,0,Confirmed fraud after investigation
+609,2316,09-07-2026,SIM Swap,Third Party Alert,Resolved,6996.82,Confirmed fraud after investigation
+610,33170,03-11-2024,,customer,Under Investigation,15998.53,  pending review  
+611,27402,28-05-2025,,Third Party Alert,Under Investigation,40048.31,
+612,41962,08-01-2026,Phishing,customer,Rejected,0,Awaiting bank verification
+613,27511,27-03-2026,Phishing,Bank System,resolved,43931.4,Customer reported unauthorized transaction
+614,8478,15-08-2024,Card Skimming,Customer,Rejected,0,  pending review  
+615,34105,24-02-2025,Card Skimming,Third Party Alert,Resolved,12306.47,
+616,24577,16-10-2024,Phishing,Bank System,Rejected,7026.74,Confirmed fraud after investigation
+617,1658,22-05-2026,Phishing,Customer,Rejected,0,Customer reported unauthorized transaction
+618,13266,10-10-2024,Phishing,customer,PENDING,26776.36,Confirmed fraud after investigation
+619,28669,28-12-2024,Account Takeover,Bank System,Rejected,39910.38,
+620,43543,03-06-2025,,customer,Rejected,0,  pending review  
+621,23015,13-10-2025,Identity Theft,Bank System,resolved,31187.18,Awaiting bank verification
+622,33540,28-12-2025,SIM Swap,Bank System,PENDING,0,Confirmed fraud after investigation
+623,40650,24-03-2025,Identity Theft,Customer,resolved,0,Awaiting bank verification
+624,40505,23-02-2025,Card Skimming,Customer,resolved,24183.53,Confirmed fraud after investigation
+625,9409,08-05-2025,Phishing,Customer,Resolved,5312.53,Customer reported unauthorized transaction
+626,47072,07-02-2026,phishing,Third Party Alert,PENDING,0,Awaiting bank verification
+627,30040,29-03-2026,Phishing,customer,Resolved,2418.8,  pending review  
+628,3356,26-11-2025,SIM Swap,customer,Resolved,45669.41,  pending review  
+629,22764,24-04-2025,Phishing,Third Party Alert,PENDING,0,Customer reported unauthorized transaction
+630,42801,29-08-2024,SIM Swap,Third Party Alert,Under Investigation,0,Awaiting bank verification
+631,29603,11-01-2026,Identity Theft,Third Party Alert,resolved,24089.52,Customer reported unauthorized transaction
+632,49023,14-11-2024,phishing,customer,Resolved,16293.09,Customer reported unauthorized transaction
+633,15590,17-08-2024,SIM Swap,Customer,Resolved,3148.93,  pending review  
+634,43980,16-06-2026,phishing,Third Party Alert,Under Investigation,2268.43,
+635,39208,28-10-2025,Card Skimming,customer,resolved,0,Awaiting bank verification
+636,10724,20-11-2025,Account Takeover,Third Party Alert,Rejected,0,Awaiting bank verification
+637,44925,10-10-2025,Phishing,Third Party Alert,resolved,0,Awaiting bank verification
+638,47557,11-05-2025,SIM Swap,Third Party Alert,Under Investigation,22032.37,Confirmed fraud after investigation
+639,23180,15-02-2025,,customer,PENDING,24029.22,Awaiting bank verification
+640,4726,11-01-2025,SIM Swap,Customer,Resolved,0,  pending review  
+641,8986,30-05-2025,phishing,Third Party Alert,Under Investigation,0,Customer reported unauthorized transaction
+642,5039,29-10-2025,phishing,customer,Resolved,41879.06,Customer reported unauthorized transaction
+643,15820,26-01-2025,,Third Party Alert,Rejected,0,
+644,15704,30-01-2026,Account Takeover,Bank System,Resolved,17502.33,Awaiting bank verification
+645,18571,21-04-2026,phishing,Bank System,PENDING,0,
+646,18114,29-04-2026,,Third Party Alert,resolved,28405.97,  pending review  
+647,35251,08-03-2026,Phishing,Customer,Resolved,0,Awaiting bank verification
+648,2070,23-10-2025,Card Skimming,Third Party Alert,resolved,37112.94,Confirmed fraud after investigation
+649,45746,23-01-2025,phishing,customer,Resolved,0,
+650,33941,17-05-2025,Account Takeover,Bank System,Rejected,0,
+651,37918,18-06-2025,Phishing,customer,resolved,34473.52,  pending review  
+652,2039,01-11-2025,,Third Party Alert,Under Investigation,0,
+653,21306,17-02-2025,Card Skimming,Customer,resolved,46272.73,
+654,12018,19-01-2025,Card Skimming,Customer,Rejected,0,Customer reported unauthorized transaction
+655,19837,18-02-2025,Account Takeover,Third Party Alert,Under Investigation,0,Awaiting bank verification
+656,41249,01-03-2025,SIM Swap,customer,Rejected,0,
+657,10174,15-11-2024,,Bank System,resolved,0,
+658,16322,27-02-2026,SIM Swap,Third Party Alert,PENDING,6140.24,  pending review  
+659,21535,20-03-2025,Card Skimming,customer,resolved,0,Awaiting bank verification
+660,7802,13-01-2026,phishing,Third Party Alert,Resolved,0,Awaiting bank verification
+661,34298,07-03-2026,SIM Swap,Bank System,Resolved,20065.31,Confirmed fraud after investigation
+662,21619,30-11-2025,Account Takeover,Bank System,PENDING,45487.54,
+663,19139,23-05-2026,Phishing,customer,Resolved,0,Awaiting bank verification
+664,48719,05-12-2024,Card Skimming,Third Party Alert,PENDING,15683.21,Awaiting bank verification
+665,44609,23-02-2025,Account Takeover,customer,Rejected,14505.33,Customer reported unauthorized transaction
+666,47880,26-01-2026,,Bank System,Resolved,0,
+667,37099,26-03-2025,phishing,Bank System,Under Investigation,9403.66,
+668,18097,28-10-2024,phishing,Third Party Alert,Rejected,0,Customer reported unauthorized transaction
+669,26381,24-06-2025,,Third Party Alert,Rejected,0,Customer reported unauthorized transaction
+670,37325,19-07-2026,Card Skimming,customer,Resolved,0,
+671,47918,08-06-2025,Card Skimming,Third Party Alert,Rejected,41771.31,
+672,2766,13-03-2025,phishing,customer,Rejected,36493.89,
+673,39339,28-02-2025,phishing,customer,Resolved,3583.24,Awaiting bank verification
+674,28322,06-10-2025,Identity Theft,customer,Under Investigation,4469.23,Customer reported unauthorized transaction
+675,19931,08-02-2025,phishing,Bank System,PENDING,0,
+676,25276,20-04-2025,SIM Swap,Customer,PENDING,43056.36,  pending review  
+677,33255,29-04-2025,SIM Swap,Third Party Alert,Rejected,891.02,Customer reported unauthorized transaction
+678,42755,27-01-2025,Account Takeover,Customer,Under Investigation,39245.88,Confirmed fraud after investigation
+679,32108,11-01-2026,,Third Party Alert,PENDING,0,  pending review  
+680,2861,16-06-2025,Account Takeover,Customer,PENDING,0,Customer reported unauthorized transaction
+681,27267,14-02-2026,SIM Swap,customer,Rejected,34651.96,
+682,18979,25-01-2025,Card Skimming,Customer,Rejected,16152.21,
+683,29934,26-07-2026,SIM Swap,Bank System,PENDING,35583.9,Customer reported unauthorized transaction
+684,31986,03-07-2026,Card Skimming,Customer,PENDING,28552.56,Confirmed fraud after investigation
+685,46747,06-11-2025,Phishing,Bank System,resolved,0,  pending review  
+686,33433,23-12-2024,Phishing,Third Party Alert,PENDING,0,
+687,5765,24-09-2025,Account Takeover,customer,Under Investigation,12157.13,
+688,43257,10-07-2026,SIM Swap,Third Party Alert,resolved,1814.4,Customer reported unauthorized transaction
+689,6363,27-01-2026,Card Skimming,Third Party Alert,Rejected,0,Customer reported unauthorized transaction
+690,14460,28-01-2025,Account Takeover,Customer,Resolved,0,Awaiting bank verification
+691,5058,21-01-2026,,Customer,resolved,5038.33,Customer reported unauthorized transaction
+692,38288,12-09-2024,Account Takeover,Customer,Under Investigation,22287.43,Customer reported unauthorized transaction
+693,20758,08-11-2025,SIM Swap,Third Party Alert,Resolved,35364.16,Awaiting bank verification
+694,39359,27-11-2025,Card Skimming,Customer,Under Investigation,511.47,Confirmed fraud after investigation
+695,27953,16-12-2024,Phishing,customer,PENDING,0,
+696,25216,07-10-2024,,Third Party Alert,Resolved,14852.5,Awaiting bank verification
+697,14919,10-12-2024,phishing,customer,Rejected,0,Customer reported unauthorized transaction
+698,5085,10-10-2025,Account Takeover,Bank System,resolved,23456.18,Confirmed fraud after investigation
+699,16813,30-11-2024,phishing,Third Party Alert,Rejected,0,  pending review  
+700,7328,10-06-2026,SIM Swap,Third Party Alert,Resolved,39007.55,Customer reported unauthorized transaction
+701,13152,28-01-2026,phishing,Customer,Rejected,36525.46,  pending review  
+702,47204,24-11-2024,Phishing,Third Party Alert,Rejected,24958.85,Awaiting bank verification
+703,27829,26-03-2026,phishing,customer,PENDING,0,Customer reported unauthorized transaction
+704,48544,16-08-2024,Card Skimming,Bank System,Under Investigation,2660.45,Customer reported unauthorized transaction
+705,43822,05-08-2025,Account Takeover,Bank System,resolved,0,Customer reported unauthorized transaction
+706,28134,03-08-2024,phishing,Customer,resolved,15528.96,  pending review  
+707,40152,24-07-2026,Account Takeover,Customer,Rejected,16770.56,
+708,48556,12-05-2025,Identity Theft,customer,PENDING,21773.58,  pending review  
+709,3829,23-11-2025,,Customer,Resolved,31909.38,Customer reported unauthorized transaction
+710,11195,13-12-2024,phishing,Bank System,Resolved,3400.85,  pending review  
+711,47390,30-03-2026,phishing,Bank System,Under Investigation,49991.67,Customer reported unauthorized transaction
+712,18981,15-12-2024,phishing,Customer,Under Investigation,49224.65,
+713,2885,25-09-2024,phishing,Third Party Alert,PENDING,0,Awaiting bank verification
+714,46348,22-04-2025,Account Takeover,Bank System,Resolved,15744.19,Customer reported unauthorized transaction
+715,5411,27-04-2025,SIM Swap,Third Party Alert,PENDING,43757.12,Confirmed fraud after investigation
+716,17106,27-07-2026,Identity Theft,Customer,resolved,0,Awaiting bank verification
+717,25261,15-01-2025,Account Takeover,Customer,resolved,0,Awaiting bank verification
+718,43834,14-08-2024,,Customer,resolved,34690.02,  pending review  
+719,7853,17-01-2025,SIM Swap,Bank System,Rejected,0,Customer reported unauthorized transaction
+720,48615,19-10-2024,Identity Theft,Bank System,resolved,41305.1,Customer reported unauthorized transaction
+721,29508,29-07-2026,Identity Theft,Third Party Alert,resolved,17413.34,
+722,38435,19-10-2024,SIM Swap,Customer,Resolved,12129.53,Customer reported unauthorized transaction
+723,12011,03-07-2026,Account Takeover,customer,Under Investigation,0,Customer reported unauthorized transaction
+724,7292,19-05-2026,Phishing,Third Party Alert,Under Investigation,0,Customer reported unauthorized transaction
+725,16491,23-10-2024,Card Skimming,Bank System,PENDING,0,  pending review  
+726,23901,24-06-2026,Card Skimming,Customer,resolved,0,Awaiting bank verification
+727,44940,27-09-2025,Identity Theft,Customer,resolved,1443.92,
+728,8441,11-06-2025,SIM Swap,Customer,Under Investigation,0,Awaiting bank verification
+729,11067,20-04-2025,Card Skimming,Bank System,PENDING,0,Customer reported unauthorized transaction
+730,28878,25-03-2025,Account Takeover,Customer,PENDING,17494.21,Confirmed fraud after investigation
+731,16394,22-06-2026,Account Takeover,customer,resolved,0,Confirmed fraud after investigation
+732,9599,09-04-2026,Card Skimming,Customer,Under Investigation,0,Confirmed fraud after investigation
+733,47339,13-09-2025,Card Skimming,customer,Under Investigation,0,Customer reported unauthorized transaction
+734,12928,05-12-2025,,customer,PENDING,31145.49,Awaiting bank verification
+735,35462,15-02-2025,Identity Theft,Bank System,Rejected,1608.7,Customer reported unauthorized transaction
+736,13344,06-06-2026,SIM Swap,Customer,Rejected,27.69,Confirmed fraud after investigation
+737,21307,26-08-2025,Card Skimming,customer,Rejected,18460.11,Customer reported unauthorized transaction
+738,9325,22-10-2025,Card Skimming,Customer,PENDING,0,Awaiting bank verification
+739,19619,19-03-2025,SIM Swap,customer,resolved,20364.61,  pending review  
+740,12504,11-03-2025,Phishing,Bank System,Under Investigation,0,Awaiting bank verification
+741,7782,08-02-2025,Phishing,Bank System,resolved,9690.14,
+742,401,30-05-2025,,Third Party Alert,Rejected,0,  pending review  
+743,8929,23-12-2025,SIM Swap,Third Party Alert,Under Investigation,0,Awaiting bank verification
+744,19820,30-03-2025,Card Skimming,Bank System,Rejected,45826.44,
+745,45008,01-01-2026,Card Skimming,Bank System,PENDING,0,Customer reported unauthorized transaction
+746,36402,09-08-2025,Card Skimming,customer,Resolved,6934.89,Confirmed fraud after investigation
+747,33235,06-12-2025,Card Skimming,Third Party Alert,PENDING,0,Awaiting bank verification
+748,44881,30-04-2026,,Third Party Alert,Under Investigation,36738.95,Confirmed fraud after investigation
+749,38487,14-12-2025,Phishing,Customer,PENDING,60.24,  pending review  
+750,634,31-05-2025,Account Takeover,customer,Rejected,20252.36,Confirmed fraud after investigation
+751,35261,12-08-2024,,Third Party Alert,Resolved,9014.01,
+752,14710,05-07-2026,,Customer,Resolved,14882.25,Confirmed fraud after investigation
+753,3966,17-05-2026,SIM Swap,Third Party Alert,resolved,0,Awaiting bank verification
+754,30888,11-01-2025,Account Takeover,Third Party Alert,PENDING,29753.84,  pending review  
+755,37722,06-10-2024,SIM Swap,Third Party Alert,PENDING,23475.68,Customer reported unauthorized transaction
+756,30370,06-06-2025,SIM Swap,Bank System,Under Investigation,34844.1,Customer reported unauthorized transaction
+757,16961,27-03-2025,,Third Party Alert,resolved,32727.54,Awaiting bank verification
+758,12069,28-04-2026,Card Skimming,Third Party Alert,Resolved,0,  pending review  
+759,13020,09-03-2025,,Customer,Resolved,20903.55,Customer reported unauthorized transaction
+760,31558,23-03-2026,Identity Theft,Third Party Alert,Resolved,0,Confirmed fraud after investigation
+761,32232,09-12-2024,Account Takeover,customer,PENDING,38522.33,Customer reported unauthorized transaction
+762,33097,27-01-2025,,Third Party Alert,Under Investigation,0,Confirmed fraud after investigation
+763,36992,27-05-2025,Account Takeover,Bank System,Rejected,28347.22,  pending review  
+764,35549,26-09-2024,phishing,Bank System,Under Investigation,0,Awaiting bank verification
+765,42798,24-10-2024,Identity Theft,Bank System,resolved,3155.37,
+766,26081,13-02-2026,Card Skimming,Bank System,Under Investigation,2427.41,
+767,32350,06-08-2024,SIM Swap,Bank System,resolved,0,
+768,14599,26-08-2024,,customer,Rejected,10868.76,Customer reported unauthorized transaction
+769,17355,09-07-2025,Account Takeover,Customer,resolved,2037.35,  pending review  
+770,28320,08-01-2026,SIM Swap,Customer,resolved,34054.79,  pending review  
+771,17698,18-08-2024,Phishing,Bank System,PENDING,0,Confirmed fraud after investigation
+772,33832,19-06-2025,Identity Theft,Bank System,Rejected,41405.82,Confirmed fraud after investigation
+773,30411,27-10-2024,Phishing,Customer,Under Investigation,0,Awaiting bank verification
+774,23588,19-12-2025,Account Takeover,Bank System,resolved,0,Customer reported unauthorized transaction
+775,41586,13-03-2026,SIM Swap,customer,Under Investigation,12825.76,
+776,38205,20-04-2026,Card Skimming,Bank System,Rejected,40129.46,Customer reported unauthorized transaction
+777,25381,05-06-2026,Phishing,customer,Under Investigation,3623.66,
+778,20906,02-03-2025,Phishing,Third Party Alert,Rejected,3320.14,Awaiting bank verification
+779,49092,21-08-2024,phishing,Bank System,Resolved,47882.16,
+780,22799,27-02-2025,Phishing,Bank System,Under Investigation,11548.17,Customer reported unauthorized transaction
+781,1296,15-12-2025,Account Takeover,customer,Rejected,0,Confirmed fraud after investigation
+782,42630,05-12-2025,phishing,Third Party Alert,resolved,0,  pending review  
+783,9319,18-12-2024,Phishing,Customer,PENDING,39222.92,
+784,38360,04-03-2026,Phishing,customer,Resolved,47047.04,Confirmed fraud after investigation
+785,18278,23-05-2026,phishing,Third Party Alert,Under Investigation,25950.28,Customer reported unauthorized transaction
+786,11790,26-07-2025,SIM Swap,Bank System,Resolved,7788.79,Customer reported unauthorized transaction
+787,44672,01-02-2025,SIM Swap,Bank System,Rejected,0,
+788,18408,21-05-2026,SIM Swap,Customer,Resolved,19448.09,Customer reported unauthorized transaction
+789,25370,08-02-2026,,Bank System,resolved,0,Confirmed fraud after investigation
+790,37128,01-05-2026,,Bank System,Resolved,0,  pending review  
+791,33059,16-06-2026,SIM Swap,Customer,PENDING,0,Awaiting bank verification
+792,35905,26-06-2026,phishing,Customer,resolved,0,Customer reported unauthorized transaction
+793,49652,14-01-2025,Phishing,customer,resolved,42927.56,Awaiting bank verification
+794,9087,16-05-2026,Identity Theft,customer,resolved,39847.25,  pending review  
+795,22320,05-11-2024,phishing,Customer,Resolved,0,
+796,18230,04-08-2024,phishing,Customer,PENDING,3624.7,Customer reported unauthorized transaction
+797,26870,07-07-2025,SIM Swap,customer,resolved,23193.46,
+798,20096,14-11-2024,SIM Swap,Third Party Alert,PENDING,31241.41,Awaiting bank verification
+799,32195,23-01-2026,Account Takeover,Third Party Alert,Under Investigation,20646.69,Customer reported unauthorized transaction
+800,10338,20-01-2026,phishing,customer,PENDING,43219.31,Awaiting bank verification
+801,47060,02-01-2026,Account Takeover,Customer,Under Investigation,6519.72,  pending review  
+802,39036,30-09-2024,Identity Theft,Bank System,resolved,11232.6,Confirmed fraud after investigation
+803,7891,21-01-2025,,Customer,resolved,31834.69,Confirmed fraud after investigation
+804,46028,19-05-2025,,Bank System,Rejected,482.92,Confirmed fraud after investigation
+805,6549,01-02-2025,Identity Theft,Bank System,Resolved,24980.25,Awaiting bank verification
+806,13084,10-05-2025,Identity Theft,Bank System,Under Investigation,47145.63,
+807,7448,11-07-2026,phishing,Customer,Rejected,0,  pending review  
+808,37785,22-01-2025,Card Skimming,customer,resolved,45912.63,Customer reported unauthorized transaction
+809,22326,04-04-2026,phishing,customer,Rejected,0,Confirmed fraud after investigation
+810,3686,15-08-2024,Card Skimming,Third Party Alert,PENDING,0,
+811,23698,09-08-2025,,customer,Rejected,9411.17,
+812,24912,29-12-2024,phishing,customer,resolved,0,Awaiting bank verification
+813,17620,02-12-2024,phishing,Customer,PENDING,3456.12,Confirmed fraud after investigation
+814,35225,26-02-2025,Phishing,customer,PENDING,0,Awaiting bank verification
+815,13318,05-10-2025,,Third Party Alert,Resolved,27554.76,Awaiting bank verification
+816,9611,18-12-2025,Account Takeover,Bank System,Resolved,40387.79,Customer reported unauthorized transaction
+817,27881,07-02-2025,Phishing,Bank System,resolved,0,Confirmed fraud after investigation
+818,15913,24-06-2025,Account Takeover,Third Party Alert,resolved,0,Awaiting bank verification
+819,39008,16-01-2026,Identity Theft,Third Party Alert,Resolved,0,Customer reported unauthorized transaction
+820,16899,13-07-2026,Account Takeover,Third Party Alert,Under Investigation,21588.53,
+821,49845,10-01-2026,SIM Swap,Third Party Alert,resolved,10112.78,Awaiting bank verification
+822,32293,29-09-2024,,customer,resolved,6486.36,
+823,28694,06-01-2025,SIM Swap,Third Party Alert,Resolved,0,
+824,49846,25-05-2026,SIM Swap,customer,Rejected,0,
+825,14991,04-08-2024,Account Takeover,customer,Resolved,26467.37,Confirmed fraud after investigation
+826,1438,04-02-2026,,customer,resolved,45953.77,Customer reported unauthorized transaction
+827,39418,20-11-2025,,customer,Rejected,5364.11,Customer reported unauthorized transaction
+828,32542,11-04-2025,Account Takeover,Customer,Resolved,0,Confirmed fraud after investigation
+829,17246,04-03-2025,phishing,Customer,resolved,0,Confirmed fraud after investigation
+830,10772,09-01-2026,Card Skimming,Customer,Rejected,0,Confirmed fraud after investigation
+831,11169,20-11-2025,SIM Swap,customer,Rejected,0,Awaiting bank verification
+832,3708,20-06-2025,Card Skimming,Customer,Rejected,19406.83,Confirmed fraud after investigation
+833,10434,17-11-2025,SIM Swap,Third Party Alert,Rejected,14018.2,Awaiting bank verification
+834,42819,18-09-2025,Identity Theft,customer,Under Investigation,35702.99,Awaiting bank verification
+835,5273,20-07-2025,Card Skimming,Third Party Alert,PENDING,35545.89,  pending review  
+836,44039,12-12-2025,Identity Theft,customer,PENDING,0,Confirmed fraud after investigation
+837,28031,23-11-2024,Account Takeover,customer,Rejected,0,Awaiting bank verification
+838,45103,07-12-2025,phishing,Customer,Resolved,37279.46,
+839,2184,08-02-2025,Account Takeover,customer,resolved,0,Awaiting bank verification
+840,20618,17-07-2026,Account Takeover,Customer,PENDING,0,Awaiting bank verification
+841,5285,27-03-2025,Card Skimming,Customer,Rejected,0,Customer reported unauthorized transaction
+842,26518,11-03-2025,Account Takeover,Bank System,resolved,0,
+843,35775,04-10-2025,,Bank System,Resolved,0,Awaiting bank verification
+844,21887,25-12-2024,,Customer,resolved,0,Customer reported unauthorized transaction
+845,22414,10-10-2025,Phishing,Customer,Resolved,16353.04,
+846,47857,23-07-2026,SIM Swap,customer,Rejected,0,  pending review  
+847,1434,08-04-2025,Phishing,customer,Rejected,38147.73,Confirmed fraud after investigation
+848,5977,09-07-2025,Account Takeover,customer,Under Investigation,0,  pending review  
+849,44936,30-03-2026,,Bank System,Under Investigation,24776.5,Awaiting bank verification
+850,720,21-08-2025,Identity Theft,Bank System,Rejected,0,Customer reported unauthorized transaction
+851,13307,19-04-2025,Card Skimming,customer,PENDING,41511.07,Customer reported unauthorized transaction
+852,552,07-01-2026,Identity Theft,Customer,Under Investigation,0,
+853,19642,24-01-2026,Phishing,Customer,resolved,0,Confirmed fraud after investigation
+854,1406,23-08-2024,Phishing,Customer,Under Investigation,0,Confirmed fraud after investigation
+855,6188,26-11-2025,Account Takeover,Third Party Alert,Resolved,21396.56,
+856,46987,20-08-2025,Account Takeover,Third Party Alert,Rejected,13713.73,Awaiting bank verification
+857,17323,29-08-2024,Account Takeover,Customer,Rejected,15321.15,Confirmed fraud after investigation
+858,15008,05-10-2024,SIM Swap,Third Party Alert,Resolved,13406.66,
+859,2390,28-05-2026,SIM Swap,Customer,PENDING,0,  pending review  
+860,29021,07-11-2025,Phishing,Customer,Rejected,21187.79,Customer reported unauthorized transaction
+861,12564,14-08-2024,Phishing,Bank System,Rejected,29816.17,Awaiting bank verification
+862,24220,10-07-2026,Phishing,customer,PENDING,0,Customer reported unauthorized transaction
+863,20155,26-09-2025,Card Skimming,Customer,Rejected,32979.19,Customer reported unauthorized transaction
+864,20014,14-07-2026,SIM Swap,Customer,resolved,34053.07,Awaiting bank verification
+865,43020,30-08-2024,SIM Swap,customer,Rejected,1201.99,
+866,29907,24-12-2024,Account Takeover,customer,Resolved,3113.08,
+867,24480,09-05-2025,SIM Swap,Bank System,resolved,0,  pending review  
+868,11561,27-12-2024,Identity Theft,Bank System,Rejected,0,  pending review  
+869,46555,25-12-2024,Card Skimming,Bank System,Resolved,29920.79,Awaiting bank verification
+870,44147,10-04-2025,Identity Theft,Bank System,Rejected,0,  pending review  
+871,20629,09-11-2024,Card Skimming,Customer,PENDING,0,Customer reported unauthorized transaction
+872,16157,03-01-2025,Account Takeover,Bank System,Rejected,44426.62,Customer reported unauthorized transaction
+873,45718,07-07-2025,Account Takeover,customer,Under Investigation,6765.22,  pending review  
+874,17763,31-05-2026,Account Takeover,customer,PENDING,0,Confirmed fraud after investigation
+875,7661,25-11-2024,Identity Theft,Customer,Resolved,1642.28,Customer reported unauthorized transaction
+876,32693,06-11-2025,Phishing,Customer,PENDING,0,Customer reported unauthorized transaction
+877,8850,17-03-2025,Account Takeover,Third Party Alert,resolved,18489.2,Confirmed fraud after investigation
+878,39338,06-09-2024,,customer,resolved,36164.76,  pending review  
+879,48826,02-05-2025,Account Takeover,Customer,resolved,24705.92,  pending review  
+880,950,18-12-2025,Card Skimming,Third Party Alert,PENDING,47885.94,Awaiting bank verification
+881,1591,07-08-2024,Account Takeover,customer,Under Investigation,15913.42,  pending review  
+882,44332,17-05-2026,SIM Swap,customer,Resolved,0,
+883,5457,11-05-2026,,Customer,resolved,24277.27,Customer reported unauthorized transaction
+884,12996,14-06-2025,phishing,Bank System,Resolved,38437.58,  pending review  
+885,40635,26-06-2025,phishing,customer,Under Investigation,0,Awaiting bank verification
+886,31858,13-07-2025,Phishing,customer,Under Investigation,14198.72,  pending review  
+887,9110,30-10-2024,,Bank System,Under Investigation,19062.37,Customer reported unauthorized transaction
+888,2707,10-07-2025,Card Skimming,Bank System,Resolved,25605.47,
+889,34044,05-09-2024,,Customer,Rejected,0,
+890,30296,22-12-2025,Phishing,Bank System,PENDING,0,Confirmed fraud after investigation
+891,45918,30-06-2025,Account Takeover,Third Party Alert,PENDING,0,  pending review  
+892,44263,28-04-2026,SIM Swap,customer,PENDING,0,
+893,28821,04-08-2024,Card Skimming,Bank System,resolved,9166.3,Customer reported unauthorized transaction
+894,40401,10-05-2025,Card Skimming,Bank System,Under Investigation,42767.46,
+895,2417,22-02-2025,,Customer,PENDING,0,Customer reported unauthorized transaction
+896,36878,17-03-2025,Card Skimming,Customer,PENDING,39263.26,Confirmed fraud after investigation
+897,35062,30-09-2025,Identity Theft,Customer,Resolved,35697.06,Customer reported unauthorized transaction
+898,29094,18-06-2025,,Customer,PENDING,6674.17,
+899,8979,21-04-2025,SIM Swap,customer,Rejected,0,Customer reported unauthorized transaction
+900,8964,07-07-2026,,Third Party Alert,Rejected,3209.74,Awaiting bank verification
+901,45288,22-04-2026,SIM Swap,Bank System,Resolved,21324.71,Awaiting bank verification
+902,29415,11-05-2026,Card Skimming,customer,PENDING,13034.41,Customer reported unauthorized transaction
+903,3145,18-02-2026,Identity Theft,customer,Under Investigation,5263.99,Awaiting bank verification
+904,10677,29-03-2025,phishing,customer,Resolved,9280.5,
+905,45448,18-10-2024,,customer,Rejected,0,Awaiting bank verification
+906,38935,15-05-2025,,Bank System,Under Investigation,0,Awaiting bank verification
+907,30930,12-06-2026,Account Takeover,customer,resolved,22214.29,
+908,25281,17-05-2025,,Bank System,PENDING,41071.95,  pending review  
+909,16882,25-10-2024,Phishing,customer,Resolved,11316.06,Confirmed fraud after investigation
+910,39733,04-11-2025,phishing,Third Party Alert,PENDING,0,
+911,41651,11-10-2025,Account Takeover,Bank System,PENDING,0,Customer reported unauthorized transaction
+912,5955,16-03-2025,Identity Theft,Third Party Alert,Under Investigation,35808.56,Confirmed fraud after investigation
+913,31333,02-06-2026,Card Skimming,Bank System,Rejected,0,  pending review  
+914,44169,21-01-2025,Identity Theft,Third Party Alert,Rejected,42439.59,Awaiting bank verification
+915,44731,06-08-2024,Card Skimming,Customer,resolved,41976.51,
+916,22208,19-11-2025,Account Takeover,Bank System,resolved,41947.42,
+917,7821,07-09-2025,Card Skimming,Bank System,Under Investigation,0,Awaiting bank verification
+918,13905,19-05-2026,Identity Theft,Third Party Alert,resolved,42141.25,Confirmed fraud after investigation
+919,34419,15-03-2026,phishing,Third Party Alert,PENDING,6795.55,Awaiting bank verification
+920,32440,26-07-2026,SIM Swap,Customer,resolved,0,
+921,5874,12-07-2025,Account Takeover,customer,resolved,45003.9,Confirmed fraud after investigation
+922,2687,06-08-2025,Identity Theft,Third Party Alert,PENDING,0,Awaiting bank verification
+923,27977,28-04-2026,Card Skimming,customer,resolved,0,Confirmed fraud after investigation
+924,16036,19-08-2025,Account Takeover,Bank System,Under Investigation,0,  pending review  
+925,5280,08-12-2024,phishing,Customer,PENDING,6835.14,Confirmed fraud after investigation
+926,20434,03-10-2025,SIM Swap,Third Party Alert,PENDING,22317.61,  pending review  
+927,35156,29-07-2026,,customer,Resolved,37151.26,Awaiting bank verification
+928,18245,15-10-2025,SIM Swap,customer,Under Investigation,0,Customer reported unauthorized transaction
+929,17081,15-07-2026,SIM Swap,Bank System,Rejected,0,
+930,3673,01-03-2025,Card Skimming,customer,PENDING,0,  pending review  
+931,18960,06-09-2025,SIM Swap,Bank System,PENDING,11757.86,Confirmed fraud after investigation
+932,45187,28-08-2025,Card Skimming,Third Party Alert,Under Investigation,1344.13,Customer reported unauthorized transaction
+933,19711,07-09-2025,Account Takeover,Customer,Rejected,45029.25,
+934,28797,20-02-2026,Identity Theft,Third Party Alert,PENDING,0,Awaiting bank verification
+935,33660,29-10-2025,,Bank System,PENDING,8979.41,Confirmed fraud after investigation
+936,10917,13-11-2024,Account Takeover,Third Party Alert,resolved,12474.04,Confirmed fraud after investigation
+937,41927,20-03-2025,Account Takeover,Third Party Alert,Resolved,0,Awaiting bank verification
+938,28205,02-09-2024,Account Takeover,Bank System,Rejected,0,  pending review  
+939,42759,12-04-2026,Identity Theft,customer,PENDING,44845.92,Confirmed fraud after investigation
+940,31579,13-01-2026,Account Takeover,Customer,Rejected,0,Awaiting bank verification
+941,31421,28-03-2025,phishing,Bank System,Under Investigation,28630.02,Customer reported unauthorized transaction
+942,6736,28-02-2026,Card Skimming,Third Party Alert,Resolved,0,Confirmed fraud after investigation
+943,41416,04-02-2026,,customer,Resolved,0,Awaiting bank verification
+944,31601,08-11-2025,Phishing,customer,PENDING,23527.38,Awaiting bank verification
+945,32481,15-01-2025,SIM Swap,Bank System,resolved,6801.55,Customer reported unauthorized transaction
+946,47530,13-07-2025,Card Skimming,Third Party Alert,Rejected,0,  pending review  
+947,31215,24-07-2025,Identity Theft,Customer,resolved,12089.41,Confirmed fraud after investigation
+948,17179,16-03-2026,phishing,Customer,PENDING,0,Confirmed fraud after investigation
+949,33802,31-05-2025,Card Skimming,Customer,Resolved,12367.63,Awaiting bank verification
+950,12408,03-08-2024,,Customer,resolved,4394.38,  pending review  
+951,32932,23-03-2025,Identity Theft,Customer,Resolved,1174.84,  pending review  
+952,21195,27-02-2026,Account Takeover,Customer,Resolved,0,Awaiting bank verification
+953,39173,05-11-2025,phishing,Bank System,Rejected,45421.78,  pending review  
+954,27401,01-04-2025,,Bank System,Under Investigation,0,  pending review  
+955,44945,13-01-2026,SIM Swap,Bank System,Under Investigation,0,Customer reported unauthorized transaction
+956,20281,04-12-2024,Account Takeover,customer,Under Investigation,20562.86,Awaiting bank verification
+957,5205,21-06-2026,,customer,Resolved,5783.04,Confirmed fraud after investigation
+958,8458,17-04-2025,Phishing,Third Party Alert,Resolved,47538.72,  pending review  
+959,47948,07-09-2025,phishing,Bank System,resolved,12938.66,  pending review  
+960,48558,19-01-2026,Card Skimming,Bank System,resolved,5688.63,Awaiting bank verification
+961,36374,14-10-2025,phishing,Third Party Alert,Resolved,0,
+962,34256,03-02-2025,phishing,customer,Under Investigation,24049.54,Confirmed fraud after investigation
+963,43938,27-03-2025,Identity Theft,Third Party Alert,Under Investigation,0,Awaiting bank verification
+964,43612,28-11-2024,Identity Theft,Bank System,PENDING,699.04,  pending review  
+965,48625,28-03-2025,phishing,Customer,Rejected,0,Awaiting bank verification
+966,1471,12-07-2025,Account Takeover,Bank System,Rejected,0,Awaiting bank verification
+967,1367,15-10-2025,Card Skimming,Customer,Resolved,0,Awaiting bank verification
+968,31483,28-11-2024,Identity Theft,Customer,PENDING,0,Awaiting bank verification
+969,44866,29-12-2024,Card Skimming,Third Party Alert,Under Investigation,25532.37,Customer reported unauthorized transaction
+970,33011,28-08-2024,Identity Theft,Customer,resolved,0,Confirmed fraud after investigation
+971,2704,18-08-2025,Card Skimming,Bank System,resolved,11299.79,
+972,5839,28-08-2024,Identity Theft,Customer,Resolved,0,Confirmed fraud after investigation
+973,19729,25-09-2024,,Bank System,Resolved,0,Customer reported unauthorized transaction
+974,1668,04-05-2025,Phishing,Third Party Alert,resolved,2067.18,  pending review  
+975,1031,13-12-2024,Account Takeover,Third Party Alert,Resolved,0,  pending review  
+976,40994,02-02-2025,SIM Swap,Customer,resolved,0,Customer reported unauthorized transaction
+977,19164,22-02-2025,Phishing,Third Party Alert,Under Investigation,28348.62,Awaiting bank verification
+978,5175,01-10-2024,Account Takeover,Third Party Alert,Resolved,9036.32,  pending review  
+979,46679,27-05-2026,Identity Theft,Bank System,Resolved,25289.99,  pending review  
+980,35108,26-02-2025,Card Skimming,Bank System,Rejected,49688.69,
+981,48339,05-01-2026,Account Takeover,customer,PENDING,17757.21,  pending review  
+982,43181,17-12-2025,phishing,Bank System,Resolved,544.87,Awaiting bank verification
+983,48191,25-10-2024,Card Skimming,Third Party Alert,Resolved,0,
+984,9662,09-06-2026,Card Skimming,customer,Under Investigation,15986.91,
+985,23224,27-04-2026,Account Takeover,customer,PENDING,13967.63,
+986,2418,13-02-2025,,Customer,Rejected,0,
+987,44939,13-08-2025,phishing,Third Party Alert,Under Investigation,0,Confirmed fraud after investigation
+988,43275,07-03-2026,Account Takeover,Customer,Resolved,0,Customer reported unauthorized transaction
+989,40693,06-04-2025,,Third Party Alert,PENDING,0,
+990,37675,13-07-2026,phishing,Bank System,Under Investigation,5587.32,
+991,47766,06-06-2026,Phishing,customer,PENDING,10245.03,Confirmed fraud after investigation
+992,30523,05-01-2026,Account Takeover,Bank System,Resolved,48976.04,Awaiting bank verification
+993,37011,01-11-2024,Account Takeover,Third Party Alert,Rejected,22309.77,Awaiting bank verification
+994,23272,21-04-2026,Phishing,Customer,PENDING,0,Customer reported unauthorized transaction
+995,31223,16-10-2025,SIM Swap,Bank System,resolved,27325.84,  pending review  
+996,37052,07-04-2025,Identity Theft,Bank System,Rejected,17847,Confirmed fraud after investigation
+997,41987,13-07-2026,Card Skimming,customer,PENDING,20187.7,Confirmed fraud after investigation
+998,33218,05-06-2026,Account Takeover,customer,resolved,13294.8,Confirmed fraud after investigation
+999,9782,23-07-2025,phishing,Customer,resolved,0,
+1000,33882,11-05-2026,SIM Swap,customer,Resolved,0,Confirmed fraud after investigation
+1001,38259,20-09-2025,Phishing,Customer,Resolved,37281.31,  pending review  
+1002,45142,25-03-2026,SIM Swap,Third Party Alert,resolved,0,Awaiting bank verification
+1003,34237,23-06-2026,phishing,customer,Under Investigation,38162.68,
+1004,33820,27-08-2025,Phishing,Third Party Alert,Under Investigation,0,Awaiting bank verification
+1005,24720,27-04-2025,Card Skimming,Bank System,Resolved,0,Confirmed fraud after investigation
+1006,7146,14-03-2026,Identity Theft,Customer,Under Investigation,34931.25,Confirmed fraud after investigation
+1007,5660,12-11-2025,Phishing,Customer,Rejected,36022.2,Confirmed fraud after investigation
+1008,11345,09-08-2025,Account Takeover,Bank System,PENDING,44535.24,
+1009,11780,28-08-2025,Identity Theft,Third Party Alert,Rejected,0,Awaiting bank verification
+1010,25958,12-02-2026,Card Skimming,Third Party Alert,resolved,26540.99,  pending review  
+1011,14087,22-07-2025,Card Skimming,Customer,Resolved,37466.16,  pending review  
+1012,47796,18-05-2026,,Third Party Alert,Resolved,31662.56,Customer reported unauthorized transaction
+1013,35331,02-01-2026,Phishing,Third Party Alert,PENDING,30339.66,Customer reported unauthorized transaction
+1014,27412,24-11-2025,Identity Theft,Bank System,resolved,15624.96,
+1015,38738,23-08-2024,Phishing,Customer,resolved,0,
+1016,34301,05-11-2024,phishing,Bank System,Resolved,0,Confirmed fraud after investigation
+1017,29334,30-03-2025,Identity Theft,Third Party Alert,Under Investigation,17703.1,Confirmed fraud after investigation
+1018,30633,13-11-2025,phishing,Bank System,resolved,0,Customer reported unauthorized transaction
+1019,42131,18-09-2025,Account Takeover,Customer,Resolved,0,Confirmed fraud after investigation
+1020,16698,17-10-2024,Identity Theft,customer,PENDING,33894.47,Confirmed fraud after investigation
+1021,49536,21-10-2024,phishing,Bank System,PENDING,22666.11,Confirmed fraud after investigation
+1022,40671,22-06-2026,,Customer,Under Investigation,0,
+1023,11572,09-02-2026,phishing,Third Party Alert,Under Investigation,0,Awaiting bank verification
+1024,48792,23-08-2024,Card Skimming,Bank System,Resolved,5660.42,  pending review  
+1025,17083,03-03-2025,phishing,Third Party Alert,Under Investigation,0,Customer reported unauthorized transaction
+1026,39360,10-08-2024,Phishing,Third Party Alert,Under Investigation,0,Confirmed fraud after investigation
+1027,11228,04-06-2025,SIM Swap,Third Party Alert,Under Investigation,0,Confirmed fraud after investigation
+1028,47272,13-02-2026,Account Takeover,Third Party Alert,resolved,16447.56,
+1029,18355,23-02-2026,phishing,customer,resolved,0,
+1030,29150,05-04-2025,phishing,Bank System,PENDING,32484.04,Confirmed fraud after investigation
+1031,38681,07-09-2024,Phishing,Third Party Alert,Resolved,21545.93,  pending review  
+1032,13533,28-04-2025,phishing,customer,Rejected,40682.95,Customer reported unauthorized transaction
+1033,6327,01-08-2025,SIM Swap,Third Party Alert,Rejected,38669.35,  pending review  
+1034,44531,27-04-2025,Identity Theft,Customer,resolved,0,Confirmed fraud after investigation
+1035,15025,03-12-2024,Phishing,Bank System,PENDING,0,  pending review  
+1036,9212,08-03-2026,Account Takeover,Third Party Alert,PENDING,0,
+1037,12238,25-01-2025,Card Skimming,Bank System,resolved,0,Customer reported unauthorized transaction
+1038,5168,23-10-2025,SIM Swap,Bank System,PENDING,39551.75,Awaiting bank verification
+1039,8962,04-04-2025,SIM Swap,Customer,Resolved,8728.93,Confirmed fraud after investigation
+1040,4224,01-10-2025,Identity Theft,Bank System,Resolved,20653.41,
+1041,15293,19-11-2025,SIM Swap,Bank System,Under Investigation,0,
+1042,13610,17-06-2025,phishing,Bank System,Under Investigation,0,Customer reported unauthorized transaction
+1043,48232,04-09-2025,Account Takeover,Bank System,Under Investigation,0,  pending review  
+1044,21173,17-07-2025,,customer,PENDING,15322.81,Customer reported unauthorized transaction
+1045,8205,05-03-2026,Account Takeover,customer,PENDING,15988.14,
+1046,5152,18-02-2026,Identity Theft,Third Party Alert,Resolved,18353.55,  pending review  
+1047,30499,08-12-2025,Account Takeover,Bank System,PENDING,0,Confirmed fraud after investigation
+1048,26565,18-09-2025,SIM Swap,customer,Under Investigation,13802.77,Confirmed fraud after investigation
+1049,38848,22-06-2025,phishing,customer,Under Investigation,34155.62,Confirmed fraud after investigation
+1050,23357,06-11-2025,,Bank System,resolved,15803.25,Awaiting bank verification
+1051,39965,08-03-2025,,customer,Rejected,25550.64,Customer reported unauthorized transaction
+1052,21892,28-05-2026,SIM Swap,Bank System,Rejected,28543.93,
+1053,8175,16-12-2024,phishing,Customer,PENDING,0,  pending review  
+1054,8089,29-07-2025,Phishing,customer,PENDING,0,  pending review  
+1055,19714,13-08-2025,Phishing,Third Party Alert,Resolved,34887.03,  pending review  
+1056,46241,03-05-2026,Card Skimming,customer,PENDING,0,Customer reported unauthorized transaction
+1057,31136,10-06-2026,phishing,Bank System,PENDING,0,Confirmed fraud after investigation
+1058,29385,02-05-2025,,Customer,resolved,0,
+1059,46849,11-05-2025,Account Takeover,Bank System,PENDING,10352.91,Confirmed fraud after investigation
+1060,26896,17-02-2026,Identity Theft,Customer,Resolved,7784.56,
+1061,23581,28-02-2026,Phishing,Third Party Alert,Under Investigation,0,Awaiting bank verification
+1062,14576,20-06-2026,Card Skimming,Customer,resolved,0,Awaiting bank verification
+1063,36338,21-02-2025,phishing,customer,Rejected,0,Awaiting bank verification
+1064,36047,16-03-2025,Phishing,Customer,resolved,19006.37,  pending review  
+1065,24655,11-02-2026,phishing,customer,Resolved,0,  pending review  
+1066,45567,13-04-2026,Phishing,customer,Rejected,43999.39,Confirmed fraud after investigation
+1067,1624,08-02-2026,Phishing,Customer,Under Investigation,23875.07,Confirmed fraud after investigation
+1068,1204,24-12-2024,,Third Party Alert,PENDING,38646.11,Customer reported unauthorized transaction
+1069,6801,03-06-2026,Account Takeover,customer,Under Investigation,45121.61,Awaiting bank verification
+1070,4009,01-01-2025,Card Skimming,customer,Rejected,0,
+1071,20683,26-10-2024,phishing,Bank System,Under Investigation,43247.77,Confirmed fraud after investigation
+1072,22335,20-06-2026,Phishing,customer,PENDING,31906.31,  pending review  
+1073,893,27-09-2024,SIM Swap,customer,PENDING,0,
+1074,3820,13-11-2024,phishing,Bank System,Rejected,0,Awaiting bank verification
+1075,14836,30-05-2026,SIM Swap,Third Party Alert,Under Investigation,14146.58,Customer reported unauthorized transaction
+1076,43209,25-07-2026,Card Skimming,Bank System,Resolved,43156.9,  pending review  
+1077,17128,14-06-2026,Card Skimming,customer,Under Investigation,35400.22,  pending review  
+1078,48538,06-02-2026,Account Takeover,Third Party Alert,Resolved,0,Customer reported unauthorized transaction
+1079,22355,11-02-2025,SIM Swap,Bank System,resolved,13133.49,
+1080,16011,09-12-2025,phishing,Bank System,Resolved,2142.52,Customer reported unauthorized transaction
+1081,31499,21-02-2026,phishing,Customer,Under Investigation,32536.33,Awaiting bank verification
+1082,16557,17-09-2025,,Customer,Resolved,0,  pending review  
+1083,44725,25-05-2025,Identity Theft,Customer,resolved,3699.73,Confirmed fraud after investigation
+1084,23499,16-12-2024,Identity Theft,Bank System,resolved,0,Confirmed fraud after investigation
+1085,47445,27-11-2024,SIM Swap,Third Party Alert,resolved,16287.37,Confirmed fraud after investigation
+1086,26790,20-10-2024,,customer,Resolved,48913.49,
+1087,18422,14-06-2025,Card Skimming,customer,Resolved,0,  pending review  
+1088,46992,20-06-2025,phishing,customer,PENDING,6988.58,Awaiting bank verification
+1089,10140,23-08-2024,Phishing,Third Party Alert,PENDING,43611.42,Awaiting bank verification
+1090,22578,25-02-2026,Identity Theft,Third Party Alert,Under Investigation,0,Customer reported unauthorized transaction
+1091,29813,06-02-2026,Account Takeover,Customer,Resolved,31060.58,Awaiting bank verification
+1092,22212,06-09-2025,Phishing,Third Party Alert,Under Investigation,0,Awaiting bank verification
+1093,40843,29-07-2025,Phishing,customer,Rejected,0,  pending review  
+1094,44347,31-05-2025,SIM Swap,customer,PENDING,0,
+1095,21251,10-10-2025,Card Skimming,Bank System,PENDING,0,Customer reported unauthorized transaction
+1096,42882,01-03-2025,Identity Theft,customer,resolved,27453.62,  pending review  
+1097,9028,27-12-2024,Phishing,Customer,PENDING,18126.66,  pending review  
+1098,10187,14-10-2024,Phishing,customer,Under Investigation,43678.39,Confirmed fraud after investigation
+1099,46144,13-10-2024,,Third Party Alert,Under Investigation,0,
+1100,39661,14-04-2025,phishing,Bank System,PENDING,0,  pending review  
+1101,36696,20-02-2025,Identity Theft,Third Party Alert,Rejected,0,Confirmed fraud after investigation
+1102,4632,25-12-2025,Account Takeover,customer,resolved,10850.07,Confirmed fraud after investigation
+1103,20001,11-09-2025,phishing,Customer,resolved,0,Customer reported unauthorized transaction
+1104,23257,04-07-2026,phishing,Third Party Alert,PENDING,44520.92,
+1105,11577,22-05-2025,,Third Party Alert,Under Investigation,44239.21,
+1106,28674,17-02-2026,Account Takeover,Bank System,Under Investigation,0,Awaiting bank verification
+1107,26434,27-11-2025,phishing,Third Party Alert,Resolved,0,Awaiting bank verification
+1108,3318,24-10-2025,SIM Swap,customer,PENDING,41722.95,
+1109,1842,23-02-2026,,Customer,Under Investigation,45106.49,Confirmed fraud after investigation
+1110,27549,16-06-2026,SIM Swap,Customer,Rejected,23465.51,Confirmed fraud after investigation
+1111,12098,10-08-2024,phishing,customer,Rejected,29412.14,Awaiting bank verification
+1112,20389,25-04-2026,SIM Swap,Bank System,Rejected,39750.93,Customer reported unauthorized transaction
+1113,37018,16-03-2026,Account Takeover,customer,Rejected,40493.69,
+1114,7531,12-09-2025,phishing,customer,Under Investigation,35173.9,Customer reported unauthorized transaction
+1115,42961,14-10-2024,Card Skimming,customer,Under Investigation,14389.38,Customer reported unauthorized transaction
+1116,33097,13-07-2025,,Third Party Alert,Resolved,38587.95,Confirmed fraud after investigation
+1117,31389,27-03-2026,Account Takeover,Third Party Alert,Rejected,19029.4,Confirmed fraud after investigation
+1118,33182,25-01-2025,,Customer,Resolved,0,Confirmed fraud after investigation
+1119,23824,12-11-2024,SIM Swap,Customer,Resolved,8715.16,
+1120,19009,26-10-2025,Phishing,customer,Under Investigation,0,Confirmed fraud after investigation
+1121,31764,16-06-2025,Card Skimming,Third Party Alert,Rejected,0,Customer reported unauthorized transaction
+1122,46047,31-05-2025,Phishing,Bank System,Rejected,0,Confirmed fraud after investigation
+1123,32016,24-10-2025,SIM Swap,Customer,Under Investigation,40587.21,Customer reported unauthorized transaction
+1124,43251,17-08-2025,Identity Theft,customer,resolved,6298.66,  pending review  
+1125,34493,02-07-2025,phishing,Customer,resolved,38000.46,Awaiting bank verification
+1126,43851,28-11-2024,,Third Party Alert,PENDING,0,Awaiting bank verification
+1127,37142,07-10-2024,,Third Party Alert,Resolved,0,Confirmed fraud after investigation
+1128,45985,27-04-2025,Phishing,Bank System,PENDING,2885.25,  pending review  
+1129,27993,29-10-2025,Identity Theft,Bank System,resolved,0,
+1130,49337,12-01-2026,Card Skimming,Customer,Resolved,38634.09,Awaiting bank verification
+1131,35794,06-02-2025,,Customer,resolved,9000.43,Confirmed fraud after investigation
+1132,44704,20-03-2026,Identity Theft,customer,resolved,0,
+1133,27495,11-05-2025,Card Skimming,Customer,Resolved,46111.42,Customer reported unauthorized transaction
+1134,38148,14-01-2025,Account Takeover,Bank System,resolved,0,  pending review  
+1135,13252,13-01-2025,,customer,Rejected,10461.92,Awaiting bank verification
+1136,12500,09-07-2026,Identity Theft,Bank System,Resolved,0,Customer reported unauthorized transaction
+1137,13908,27-03-2026,Account Takeover,customer,resolved,15226.26,Confirmed fraud after investigation
+1138,31018,15-11-2025,Account Takeover,Bank System,resolved,19746.3,Confirmed fraud after investigation
+1139,46551,13-04-2025,Card Skimming,Third Party Alert,Resolved,47023.77,Awaiting bank verification
+1140,47238,27-11-2024,Phishing,Third Party Alert,Resolved,17517.89,Customer reported unauthorized transaction
+1141,21117,13-08-2024,phishing,customer,Under Investigation,0,  pending review  
+1142,31747,15-12-2025,,Bank System,Resolved,37023.5,
+1143,32594,11-04-2025,Card Skimming,Customer,PENDING,47548.66,Customer reported unauthorized transaction
+1144,40786,23-09-2024,phishing,Bank System,Rejected,19503.11,Awaiting bank verification
+1145,30295,31-01-2025,phishing,Bank System,resolved,14022.83,Confirmed fraud after investigation
+1146,37302,22-11-2024,phishing,Bank System,Rejected,17752.44,
+1147,33429,16-01-2025,SIM Swap,Customer,Rejected,4206.1,
+1148,32410,19-02-2025,phishing,Bank System,Rejected,0,Confirmed fraud after investigation
+1149,39771,08-01-2025,,Customer,PENDING,12758.9,  pending review  
+1150,24535,10-10-2024,Phishing,Customer,PENDING,30706.58,  pending review  
+1151,21188,16-01-2025,SIM Swap,customer,resolved,13370.61,Customer reported unauthorized transaction
+1152,31433,28-04-2025,,customer,Rejected,0,  pending review  
+1153,24077,31-07-2026,,Third Party Alert,Resolved,16114.42,Customer reported unauthorized transaction
+1154,47467,14-12-2024,Identity Theft,Third Party Alert,Rejected,47709.47,Awaiting bank verification
+1155,14673,23-11-2024,phishing,customer,PENDING,0,Awaiting bank verification
+1156,48639,04-11-2024,Card Skimming,customer,resolved,0,Customer reported unauthorized transaction
+1157,48183,13-01-2026,Phishing,customer,Rejected,0,  pending review  
+1158,20589,23-05-2025,SIM Swap,Customer,PENDING,0,Confirmed fraud after investigation
+1159,28640,02-11-2025,Account Takeover,Customer,resolved,0,Confirmed fraud after investigation
+1160,42724,23-11-2024,Phishing,Bank System,Rejected,36695.81,Confirmed fraud after investigation
+1161,20044,28-03-2026,phishing,Bank System,Resolved,47471.59,Customer reported unauthorized transaction
+1162,11306,24-06-2025,Identity Theft,Bank System,PENDING,0,Customer reported unauthorized transaction
+1163,46683,11-05-2026,SIM Swap,Customer,PENDING,16421.97,Awaiting bank verification
+1164,24919,04-10-2024,phishing,customer,resolved,0,Customer reported unauthorized transaction
+1165,37073,05-09-2025,Identity Theft,Third Party Alert,PENDING,48296.51,
+1166,9956,02-03-2025,,Third Party Alert,Rejected,0,  pending review  
+1167,48394,18-09-2025,,Bank System,resolved,0,  pending review  
+1168,26613,22-11-2025,Identity Theft,Bank System,Resolved,24301.95,
+1169,13716,01-08-2026,Card Skimming,Third Party Alert,Under Investigation,0,Confirmed fraud after investigation
+1170,34965,05-12-2025,Phishing,customer,Under Investigation,44575.65,Confirmed fraud after investigation
+1171,33337,23-02-2025,phishing,customer,resolved,6130.87,  pending review  
+1172,48742,19-12-2025,Account Takeover,Third Party Alert,Resolved,0,Awaiting bank verification
+1173,21653,28-09-2024,phishing,Bank System,resolved,33244.31,
+1174,22933,22-04-2026,SIM Swap,Bank System,resolved,0,  pending review  
+1175,32200,07-02-2026,,Bank System,resolved,17263.07,Confirmed fraud after investigation
+1176,6857,23-05-2025,SIM Swap,Bank System,Under Investigation,0,  pending review  
+1177,21197,10-03-2025,Account Takeover,Third Party Alert,Under Investigation,10718.91,
+1178,13138,17-07-2025,phishing,Third Party Alert,PENDING,0,Confirmed fraud after investigation
+1179,32523,07-05-2025,Identity Theft,customer,Resolved,17537.83,
+1180,38046,16-04-2025,phishing,Bank System,resolved,0,Confirmed fraud after investigation
+1181,10084,22-10-2025,SIM Swap,Customer,resolved,40933.08,Confirmed fraud after investigation
+1182,21916,24-05-2025,SIM Swap,Third Party Alert,Under Investigation,25446.43,Customer reported unauthorized transaction
+1183,42903,11-02-2026,Account Takeover,Customer,PENDING,20873,  pending review  
+1184,12998,13-10-2025,Identity Theft,Third Party Alert,resolved,0,Awaiting bank verification
+1185,41054,08-03-2026,Card Skimming,Customer,Rejected,0,Awaiting bank verification
+1186,2667,17-06-2026,Identity Theft,Customer,Resolved,0,
+1187,5065,20-04-2025,Identity Theft,customer,Resolved,0,Customer reported unauthorized transaction
+1188,3092,10-09-2025,phishing,Bank System,Rejected,0,  pending review  
+1189,42219,20-07-2025,SIM Swap,Customer,Resolved,0,
+1190,18176,07-09-2024,Identity Theft,Customer,Resolved,37329.59,  pending review  
+1191,35163,24-10-2025,Account Takeover,Bank System,PENDING,14528.79,Awaiting bank verification
+1192,6428,15-01-2025,Identity Theft,Bank System,Resolved,18792.48,Customer reported unauthorized transaction
+1193,24369,02-12-2025,SIM Swap,Customer,Rejected,16969.31,  pending review  
+1194,19669,17-02-2026,phishing,customer,resolved,0,Confirmed fraud after investigation
+1195,17829,18-09-2025,Identity Theft,Bank System,resolved,18001.95,Confirmed fraud after investigation
+1196,33093,31-01-2025,SIM Swap,Third Party Alert,PENDING,17606.48,Confirmed fraud after investigation
+1197,24523,30-05-2025,,Third Party Alert,PENDING,0,Confirmed fraud after investigation
+1198,42946,05-07-2025,Phishing,Customer,PENDING,0,  pending review  
+1199,4017,06-03-2026,Account Takeover,Third Party Alert,Rejected,22324.15,
+1200,19673,14-07-2025,Identity Theft,Third Party Alert,PENDING,0,Confirmed fraud after investigation
+1201,47508,28-02-2026,Account Takeover,Third Party Alert,Under Investigation,0,Confirmed fraud after investigation
+1202,43814,19-12-2024,Phishing,Third Party Alert,PENDING,6090.29,Awaiting bank verification
+1203,18065,15-12-2024,SIM Swap,customer,PENDING,36234.5,Confirmed fraud after investigation
+1204,37632,19-07-2026,Identity Theft,Third Party Alert,Resolved,6379.72,Awaiting bank verification
+1205,33114,22-10-2025,phishing,Customer,Under Investigation,2700.05,Customer reported unauthorized transaction
+1206,4790,15-01-2025,,Third Party Alert,Resolved,46423.55,Awaiting bank verification
+1207,47619,13-08-2025,phishing,Customer,Under Investigation,13698.19,Confirmed fraud after investigation
+1208,41983,21-12-2025,,customer,PENDING,0,Customer reported unauthorized transaction
+1209,13034,08-03-2026,,Customer,resolved,32947.24,Confirmed fraud after investigation
+1210,15101,18-12-2024,Identity Theft,Third Party Alert,Under Investigation,13450.67,  pending review  
+1211,39385,15-12-2025,phishing,Customer,Under Investigation,0,  pending review  
+1212,19973,27-08-2024,Phishing,Bank System,Resolved,42706.87,Confirmed fraud after investigation
+1213,1697,26-04-2026,Identity Theft,Third Party Alert,Resolved,0,Customer reported unauthorized transaction
+1214,39853,08-09-2025,Card Skimming,customer,Resolved,36152.74,
+1215,26047,11-10-2025,,Customer,resolved,45585.61,
+1216,21690,17-12-2025,,Bank System,Under Investigation,2604.77,Confirmed fraud after investigation
+1217,3471,28-07-2026,Phishing,customer,Under Investigation,7953.84,  pending review  
+1218,700,27-07-2025,Account Takeover,Bank System,Resolved,13150.91,Awaiting bank verification
+1219,21323,27-02-2025,Account Takeover,Customer,Resolved,0,Awaiting bank verification
+1220,16055,21-10-2024,,Customer,resolved,1285.61,Customer reported unauthorized transaction
+1221,8050,09-03-2026,SIM Swap,customer,Rejected,0,  pending review  
+1222,10511,02-08-2025,SIM Swap,Customer,Resolved,0,Awaiting bank verification
+1223,3460,30-04-2025,Card Skimming,Customer,resolved,0,Confirmed fraud after investigation
+1224,19900,04-03-2026,Account Takeover,Third Party Alert,Resolved,0,Confirmed fraud after investigation
+1225,18219,28-03-2026,,Customer,Rejected,32792.23,
+1226,31892,14-11-2024,Phishing,customer,resolved,16058.09,Customer reported unauthorized transaction
+1201,47508,28-02-2026,Account Takeover,Third Party Alert,Under Investigation,0,Confirmed fraud after investigation
+31,10226,18-05-2026,Card Skimming,Bank System,Resolved,8504.68,  pending review  
+749,38487,14-12-2025,Phishing,Customer,PENDING,60.24,  pending review  
+649,45746,23-01-2025,phishing,customer,Resolved,0,
+676,25276,20-04-2025,SIM Swap,Customer,PENDING,43056.36,  pending review  
+821,49845,10-01-2026,SIM Swap,Third Party Alert,resolved,10112.78,Awaiting bank verification
+6,39855,24-08-2025,Identity Theft,customer,Under Investigation,0,Customer reported unauthorized transaction
+510,45973,01-08-2025,Phishing,Bank System,resolved,0,  pending review  
+123,38169,19-03-2025,phishing,customer,Under Investigation,49718.76,Customer reported unauthorized transaction
+120,38333,10-06-2025,Card Skimming,customer,resolved,0,  pending review  
+1135,13252,13-01-2025,,customer,Rejected,10461.92,Awaiting bank verification
+703,27829,26-03-2026,phishing,customer,PENDING,0,Customer reported unauthorized transaction
+792,35905,26-06-2026,phishing,Customer,resolved,0,Customer reported unauthorized transaction
+112,46792,19-10-2024,,Bank System,Resolved,0,Confirmed fraud after investigation
+60,37966,03-03-2026,Account Takeover,Third Party Alert,Resolved,8975.77,Customer reported unauthorized transaction
+1093,40843,29-07-2025,Phishing,customer,Rejected,0,  pending review  
+1145,30295,31-01-2025,phishing,Bank System,resolved,14022.83,Confirmed fraud after investigation
+136,32192,30-07-2025,Phishing,Customer,Under Investigation,0,  pending review  
+359,21615,13-06-2025,,customer,Resolved,0,  pending review  
+554,27832,24-09-2025,phishing,Customer,resolved,0,Awaiting bank verification
+46,47205,13-11-2024,Account Takeover,Customer,resolved,34146.05,
+296,20653,26-04-2026,Account Takeover,Third Party Alert,Under Investigation,10397.24,Awaiting bank verification
+250,10293,22-11-2025,SIM Swap,customer,Under Investigation,328.13,Awaiting bank verification
+604,2589,26-02-2026,Phishing,customer,PENDING,0,
+598,24608,16-09-2024,Identity Theft,Bank System,Under Investigation,115.08,Confirmed fraud after investigation
+58,31434,15-07-2025,Phishing,Bank System,Resolved,43320.01,
+895,2417,22-02-2025,,Customer,PENDING,0,Customer reported unauthorized transaction
+635,39208,28-10-2025,Card Skimming,customer,resolved,0,Awaiting bank verification
+1019,42131,18-09-2025,Account Takeover,Customer,Resolved,0,Confirmed fraud after investigation
+563,49679,06-11-2025,SIM Swap,Third Party Alert,Rejected,32237.37,Customer reported unauthorized transaction
